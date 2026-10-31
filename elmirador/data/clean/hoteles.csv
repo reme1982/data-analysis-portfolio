@@ -1,0 +1,6 @@
+hotel_id,nombre,ciudad,tipo,categoria,habitaciones,noches_disponibles
+1,El Mirador Costa,Málaga,vacacional,4,220,80000
+2,El Mirador Playa Sur,Cádiz,vacacional,4,165,60000
+3,El Mirador Centro,Madrid,urbano,4,165,60000
+4,El Mirador Ciudad,Sevilla,urbano,4,150,55000
+5,El Mirador Sierra,Granada,urbano,3,110,40000

@@ -1,0 +1,7 @@
+canal_id,nombre,tipo,comision_pct
+1,directo,directo,0.0
+2,telefono,directo,0.0
+3,booking,ota,0.18
+4,expedia,ota,0.2
+5,turoperador,turoperador,0.25
+6,corporate,corporate,0.08
