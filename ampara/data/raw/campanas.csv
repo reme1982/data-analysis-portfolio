@@ -1,0 +1,41 @@
+campana_id,canal,nombre,fecha_inicio,fecha_fin,coste,tipo
+9001,agregador,Fee Rastreator,23/08/2023,31 Oct 2023,"36.062,64 €",Fee_comparador
+9002,comparadores,Acuerdo Agregador A,2023-09-25,2024-02-11,"42.551,40 €",fee
+9003,agregador,Acuerdo Agregador B,18/05/2023,2023-10-19,"48.790,60 €",fee
+9004,Rastreator,Puja Comparador Q1,2023-11-15,23/02/2024,"37.590,92 €",fee
+9005,comparadores,Puja Comparador Q2,02/12/2023,2024-01-14,"25.011,76 €",Fee_comparador
+9006,comparadores,Ranking Precio,2022-12-08,2023-04-13,"26.390,66 €",fee
+9007,comparadores,Fee Comparador C,17/01/2023,2023-04-18,"45.286,24 €",fee_comparador
+9008,comparadores,Renegociacion Fee,2023-07-07,2023-09-27,"31.826,78 €",fee_comparador
+9009,comparadores,Alta Visibilidad,20/07/2023,22/08/2023,"17.500,21 €",Fee_comparador
+9010,agregador,Comparador Movil,2022-07-16,,"48.988,79 €",fee
+9011,directo,Google Search Marca,12 May 2023,12/09/2023,"53.256,65 €",publicidad
+9012,directo,Meta Prospecting,5 Jun 2023,25/11/2023,"44.627,38 €",ads
+9013,ads,  YouTube Ads ,2022-10-23,,"28.218,52 €",ads
+9014,paid,Display Remarketing,2023-07-24,2024-01-13,"53.290,61 €",Publicidad
+9015,ads,SEM Genericas,2022-10-26,02/12/2022,"70.679,41 €",Publicidad
+9016,directo,Instagram Reels,01/01/2023,23 Mar 2023,"27.442,99 €",ads
+9017,ads,TikTok Ads,2022-09-23,2022-10-30,"35.737,78 €",ads
+9018,paid,  Email Captacion ,2022-07-03,03/08/2022,"30.348,45 €",ads
+9019,ads,App Install,2023-10-19,18/03/2024,"52.398,21 €",Publicidad
+9020,comision,  Comision Corredores ,2023-04-08,05/06/2023,"71.688,26 €",Comisión
+9021,comision,Incentivo Agentes,18/05/2023,2023-08-08,"151.635,28 €",comision
+9022,mediadores,Campaña Red Norte  ,28/11/2023,2024-01-23,"97.852,54 €",comision
+9023,comision,Campaña Red Centro,18/10/2022,2023-04-01,"164.747,20 €",comision
+9024,mediadores,Campaña Red Sur,2023-07-20,2024-02-03,"80.289,38 €",comision
+9025,comision,Bonus Produccion,14 Nov 2023,05/05/2024,"133.185,57 €",Comisión
+9026,mediadores,Convenio Agencias,2023-12-10,2024-06-18,"163.944,36 €",comision
+9027,comision,Comision Levante,15/11/2022,,"108.657,41 €",Comisión
+9028,banca,Acuerdo Bancaseguros,2023-12-31,2024-04-21,"71.744,25 €",acuerdo
+9029,acuerdo,Campaña Oficinas,03/12/2023,20 Feb 2024,"30.071,20 €",Acuerdo_banca
+9030,acuerdo,Incentivo Gestores,24/01/2023,2023-03-30,"46.010,21 €",Acuerdo_banca
+9031,acuerdo,Cross-sell Hipotecas,2023-11-28,2024-01-04,"51.742,20 €",acuerdo_banca
+9032,banca,Bonus Sucursal,2023-03-21,2023-07-27,"38.896,02 €",Acuerdo_banca
+9033,banca,Convenio Banca Q3,26/01/2023,04/06/2023,"31.104,87 €",Acuerdo_banca
+9034,acuerdo,Push App Banco,2023-04-19,2023-09-09,"54.431,25 €",acuerdo
+9035,referido,Programa Referidos,4 Apr 2023,2023-10-04,"10.326,58 €",referral
+9036,referido,Invita a un Amigo,2023-03-07,,"24.678,19 €",recompensa
+9037,recompensa,Recompensa Cliente,19/06/2023,2023-10-23,"10.340,33 €",referral
+9038,recompensa,Trae un Colega,22/07/2023,07/01/2024,"17.832,12 €",referral
+9039,recompensa,Bonus Recomendacion,03/10/2023,2024-03-01,"10.061,38 €",Recompensa
+9040,recompensa,Referido Verano,2023-12-11,21/02/2024,"22.761,40 €",Recompensa

@@ -1,0 +1,51 @@
+mediador_id,nombre,zona,tipo
+1,Correduría Iberia,norte,agente
+2,Seguros Atlántico,Centro,Corredor
+3,  Mediación Delta ,Levante,Corredor
+4,Grupo Aseguranza,sur,Agente
+5,Vega Correduría,Norte,corredor
+6,Agencia Solvento,centro,agencia
+7,Prima Mediación,Levante,corredor
+8,Norteseguros,Sur,agente
+9,Levante Broker,norte,agente
+10,Sur Correduría,centro,Corredor
+11,Central de Seguros,levante,corredor
+12,Ática Mediación,Sur,corredor
+13,Ponte Seguros,norte,agencia
+14,Mediterráneo Broker,Centro,agencia
+15,Cantábrico Seguros,levante,Corredor
+16,Aurora Correduría,Sur,Corredor
+17,Meridian Mediación,norte,agente
+18,Castellana Seguros,Centro,Corredor
+19,Guadiana Broker,levante,corredor
+20,Ebro Correduría,Sur,Corredor
+21,Correduría Iberia 2,Norte,agencia
+22,  Seguros Atlántico 2 ,centro,corredor
+23,Mediación Delta 2,Levante,agente
+24,Grupo Aseguranza 2,sur,agencia
+25,Vega Correduría 2,Norte,Agencia
+26,Agencia Solvento 2,Centro,Corredor
+27,Prima Mediación 2,Levante,Agencia
+28,Norteseguros 2  ,sur,Corredor
+29,Levante Broker 2,norte,corredor
+30,Sur Correduría 2,Centro,corredor
+31,Central de Seguros 2,Levante,corredor
+32,Ática Mediación 2,Sur,agente
+33,Ponte Seguros 2,norte,corredor
+34,Mediterráneo Broker 2,centro,corredor
+35,Cantábrico Seguros 2,Levante,Corredor
+36,Aurora Correduría 2,Sur,Corredor
+37,Meridian Mediación 2,norte,agente
+38,Castellana Seguros 2  ,centro,agente
+39,Guadiana Broker 2,levante,Agente
+40,  Ebro Correduría 2 ,sur,Corredor
+41,Correduría Iberia 3,norte,corredor
+42,Seguros Atlántico 3,Centro,corredor
+43,Mediación Delta 3,levante,Corredor
+44,Grupo Aseguranza 3,sur,Agencia
+45,Vega Correduría 3,Norte,Corredor
+46,Agencia Solvento 3,centro,Agente
+47,Prima Mediación 3,Levante,agente
+48,Norteseguros 3,Sur,agencia
+49,Levante Broker 3,norte,agente
+50,Sur Correduría 3,centro,agente
