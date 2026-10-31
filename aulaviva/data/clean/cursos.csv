@@ -1,0 +1,601 @@
+curso_id,titulo,categoria,nivel,n_lecciones,duracion_horas,fecha_publicacion,curso_valido
+5001,Python desde Cero 1,programacion,avanzado,26,10.0,2021-02-16,True
+5002,JavaScript Moderno 1,programacion,principiante,43,22.0,2020-06-07,True
+5003,SQL Práctico 1,programacion,intermedio,42,13.7,2021-08-21,True
+5004,React Avanzado 1,programacion,intermedio,33,16.6,2020-04-12,True
+5005,APIs con Node 1,programacion,intermedio,39,13.6,2020-10-22,True
+5006,Java Fundamentos 1,programacion,intermedio,29,13.6,2020-07-17,True
+5007,Algoritmos 1,programacion,principiante,49,23.1,2019-12-20,True
+5008,Git y GitHub 1,programacion,intermedio,41,18.6,2021-03-18,True
+5009,Python desde Cero 2,programacion,principiante,34,12.1,2021-07-23,True
+5010,JavaScript Moderno 2,programacion,avanzado,53,20.8,2022-03-08,True
+5011,SQL Práctico 2,programacion,principiante,54,25.1,2021-03-15,True
+5012,React Avanzado 2,programacion,principiante,33,16.0,2022-04-14,True
+5013,APIs con Node 2,programacion,intermedio,46,22.1,2022-03-21,True
+5014,Java Fundamentos 2,programacion,intermedio,56,27.5,2022-04-30,True
+5015,Algoritmos 2,programacion,principiante,48,15.4,2022-03-26,True
+5016,Git y GitHub 2,programacion,intermedio,45,17.4,2020-07-31,True
+5017,Python desde Cero 3,programacion,intermedio,49,24.0,2020-09-16,True
+5018,JavaScript Moderno 3,programacion,principiante,40,16.9,2020-12-15,True
+5019,SQL Práctico 3,programacion,principiante,45,20.4,2021-11-28,True
+5020,React Avanzado 3,programacion,intermedio,31,14.0,2020-02-17,True
+5021,APIs con Node 3,programacion,principiante,48,17.7,2021-04-30,True
+5022,Java Fundamentos 3,programacion,intermedio,39,14.4,2022-03-08,True
+5023,Algoritmos 3,programacion,principiante,41,15.6,2021-09-29,True
+5024,Git y GitHub 3,programacion,intermedio,42,18.2,2021-10-15,True
+5025,Python desde Cero 4,programacion,intermedio,58,31.2,2021-11-29,True
+5026,JavaScript Moderno 4,programacion,principiante,45,22.4,2020-02-20,True
+5027,SQL Práctico 4,programacion,principiante,0,18.5,2020-01-31,False
+5028,React Avanzado 4,programacion,intermedio,23,7.9,2020-07-08,True
+5029,APIs con Node 4,programacion,intermedio,33,10.0,2022-01-17,True
+5030,Java Fundamentos 4,programacion,principiante,44,22.7,2019-12-15,True
+5031,Algoritmos 4,programacion,principiante,42,16.8,2020-04-15,True
+5032,Git y GitHub 4,programacion,intermedio,43,20.6,2020-03-26,True
+5033,Python desde Cero 5,programacion,intermedio,51,25.2,2020-04-30,True
+5034,JavaScript Moderno 5,programacion,intermedio,48,0.0,2021-03-20,False
+5035,SQL Práctico 5,programacion,principiante,45,14.2,2020-03-28,True
+5036,React Avanzado 5,programacion,principiante,52,16.0,2020-07-09,True
+5037,APIs con Node 5,programacion,intermedio,38,18.3,2020-05-07,True
+5038,Java Fundamentos 5,programacion,principiante,53,23.9,2020-09-22,True
+5039,Algoritmos 5,programacion,principiante,39,16.7,2021-12-21,True
+5040,Git y GitHub 5,programacion,principiante,47,17.2,2020-01-27,True
+5041,Python desde Cero 6,programacion,intermedio,37,12.2,2020-03-23,True
+5042,JavaScript Moderno 6,programacion,principiante,48,22.9,2020-12-08,True
+5043,SQL PRÁCTICO 6,programacion,avanzado,36,18.4,2020-11-26,True
+5044,React Avanzado 6,programacion,avanzado,28,14.1,2021-12-27,True
+5045,APIs con Node 6,programacion,avanzado,47,20.8,2020-09-30,True
+5046,Java Fundamentos 6,programacion,principiante,47,14.3,2020-07-17,True
+5047,Algoritmos 6,programacion,intermedio,51,22.1,2021-11-07,True
+5048,Git y GitHub 6,programacion,avanzado,38,11.6,2021-03-02,True
+5049,Python desde Cero 7,programacion,principiante,29,10.3,2021-04-08,True
+5050,JavaScript Moderno 7,programacion,intermedio,25,9.9,2021-06-18,True
+5051,SQL Práctico 7,programacion,principiante,41,12.7,2022-05-10,True
+5052,React Avanzado 7,programacion,intermedio,50,18.6,2020-08-17,True
+5053,APIs con Node 7,programacion,principiante,34,15.3,2020-07-08,True
+5054,Java Fundamentos 7,programacion,intermedio,44,19.5,2021-02-17,True
+5055,Algoritmos 7,programacion,avanzado,39,20.8,2021-04-22,True
+5056,GIT Y GITHUB 7,programacion,avanzado,35,11.4,2020-12-20,True
+5057,Python desde Cero 8,programacion,intermedio,0,21.7,2021-01-08,False
+5058,JavaScript Moderno 8,programacion,avanzado,31,13.4,2021-10-15,True
+5059,SQL Práctico 8,programacion,principiante,31,11.5,2021-12-28,True
+5060,React Avanzado 8,programacion,principiante,46,19.3,2021-04-24,True
+5061,APIs con Node 8,programacion,principiante,53,24.3,2021-07-18,True
+5062,Java Fundamentos 8,programacion,intermedio,52,17.4,2021-10-06,True
+5063,Algoritmos 8,programacion,principiante,30,9.2,2022-03-26,True
+5064,Git y GitHub 8,programacion,principiante,31,12.5,2020-09-21,True
+5065,Python desde Cero 9,programacion,principiante,41,20.6,2022-04-01,True
+5066,JavaScript Moderno 9,programacion,intermedio,31,10.4,2022-03-09,True
+5067,SQL Práctico 9,programacion,avanzado,47,17.4,2020-06-16,True
+5068,React Avanzado 9,programacion,avanzado,46,24.0,2021-04-21,True
+5069,APIs con Node 9,programacion,intermedio,26,11.4,2021-01-28,True
+5070,Java Fundamentos 9,programacion,principiante,39,19.1,2020-08-21,True
+5071,Algoritmos 9,programacion,principiante,51,25.8,2021-05-21,True
+5072,Git y GitHub 9,programacion,avanzado,-5,9.6,2021-06-18,False
+5073,Python desde Cero 10,programacion,principiante,31,11.9,2020-04-11,True
+5074,JavaScript Moderno 10,programacion,principiante,46,15.9,2020-01-13,True
+5075,SQL Práctico 10,programacion,principiante,53,27.2,2021-09-14,True
+5076,React Avanzado 10,programacion,principiante,37,19.5,2022-01-20,True
+5077,APIs con Node 10,programacion,principiante,43,15.6,2022-10-01,True
+5078,Java Fundamentos 10,programacion,avanzado,39,12.7,2021-12-05,True
+5079,Algoritmos 10,programacion,principiante,37,20.3,2020-10-02,True
+5080,Git y GitHub 10,programacion,intermedio,39,20.0,2021-10-03,True
+5081,Python desde Cero 11,programacion,principiante,48,20.6,2022-09-04,True
+5082,JavaScript Moderno 11,programacion,principiante,35,13.5,2022-03-20,True
+5083,SQL Práctico 11,programacion,intermedio,35,14.5,2021-03-01,True
+5084,React Avanzado 11,programacion,intermedio,52,21.9,2022-03-24,True
+5085,APIs con Node 11,programacion,principiante,53,28.1,2020-08-21,True
+5086,Java Fundamentos 11,programacion,principiante,26,13.2,2021-03-09,True
+5087,Algoritmos 11,programacion,principiante,32,17.0,2021-01-15,True
+5088,Git y GitHub 11,programacion,intermedio,32,13.2,2022-02-22,True
+5089,Python desde Cero 12,programacion,principiante,45,19.8,2020-04-10,True
+5090,JavaScript Moderno 12,programacion,avanzado,46,15.1,2022-05-01,True
+5091,SQL Práctico 12,programacion,principiante,49,24.4,2021-09-26,True
+5092,REACT AVANZADO 12,programacion,intermedio,36,13.4,2021-11-14,True
+5093,APIs con Node 12,programacion,principiante,45,24.4,2020-02-28,True
+5094,Java Fundamentos 12,programacion,principiante,36,13.3,2022-04-13,True
+5095,Algoritmos 12,programacion,principiante,39,11.9,2021-08-11,True
+5096,GIT Y GITHUB 12,programacion,principiante,51,21.8,2021-05-05,True
+5097,Python desde Cero 13,programacion,intermedio,45,16.9,2020-01-11,True
+5098,JavaScript Moderno 13,programacion,principiante,30,15.4,2022-04-06,True
+5099,SQL Práctico 13,programacion,avanzado,-3,18.7,2020-10-13,False
+5100,React Avanzado 13,programacion,intermedio,47,21.4,2022-01-20,True
+5101,Figma para UX 1,diseno,principiante,38,15.8,2021-06-18,True
+5102,Diseño Gráfico 1,diseno,principiante,-2,14.0,2022-06-01,False
+5103,Ilustración Digital 1,diseno,intermedio,34,17.7,2020-02-02,True
+5104,Branding 1,diseno,avanzado,34,10.5,2021-07-07,True
+5105,Motion Graphics 1,diseno,intermedio,27,13.4,2021-11-04,True
+5106,Photoshop Pro 1,diseno,avanzado,40,21.1,2021-08-19,True
+5107,Tipografía 1,diseno,principiante,29,14.7,2020-04-10,True
+5108,Figma para UX 2,diseno,principiante,30,13.7,2019-12-23,True
+5109,Diseño Gráfico 2,diseno,principiante,21,6.5,2019-12-28,True
+5110,Ilustración Digital 2,diseno,principiante,42,13.7,2020-06-20,True
+5111,Branding 2,diseno,intermedio,29,8.8,2020-04-18,True
+5112,Motion Graphics 2,diseno,principiante,26,11.8,2020-05-09,True
+5113,Photoshop Pro 2,diseno,principiante,49,24.8,2020-12-23,True
+5114,Tipografía 2,diseno,intermedio,34,18.2,2020-12-27,True
+5115,Figma para UX 3,diseno,intermedio,41,19.8,2020-12-03,True
+5116,DISEÑO GRÁFICO 3,diseno,principiante,31,13.7,2020-10-13,True
+5117,Ilustración Digital 3,diseno,intermedio,31,16.0,2021-06-07,True
+5118,Branding 3,diseno,avanzado,36,14.7,2021-11-14,True
+5119,Motion Graphics 3,diseno,principiante,47,21.0,2020-02-12,True
+5120,Photoshop Pro 3,diseno,avanzado,34,17.4,2021-04-09,True
+5121,Tipografía 3,diseno,intermedio,32,17.0,2020-09-10,True
+5122,Figma para UX 4,diseno,intermedio,35,14.3,2020-09-27,True
+5123,Diseño Gráfico 4,diseno,intermedio,26,10.7,2021-08-16,True
+5124,Ilustración Digital 4,diseno,principiante,30,14.2,2022-01-02,True
+5125,Branding 4,diseno,principiante,36,19.7,2022-05-20,True
+5126,Motion Graphics 4,diseno,principiante,36,16.8,2020-03-05,True
+5127,Photoshop Pro 4,diseno,avanzado,34,11.8,2020-03-18,True
+5128,Tipografía 4,diseno,principiante,29,9.9,2021-07-21,True
+5129,Figma para UX 5,diseno,avanzado,35,12.3,2022-01-29,True
+5130,Diseño Gráfico 5,diseno,intermedio,37,12.1,2021-10-10,True
+5131,Ilustración Digital 5,diseno,principiante,29,12.6,2022-02-28,True
+5132,Branding 5,diseno,principiante,43,19.8,2022-01-19,True
+5133,Motion Graphics 5,diseno,principiante,22,11.6,2020-02-08,True
+5134,Photoshop Pro 5,diseno,avanzado,10,5.1,2021-12-08,True
+5135,TIPOGRAFÍA 5,diseno,principiante,34,11.9,2021-02-16,True
+5136,Figma para UX 6,diseno,avanzado,22,7.7,2022-05-27,True
+5137,Diseño Gráfico 6,diseno,principiante,28,10.1,2021-10-14,True
+5138,Ilustración Digital 6,diseno,principiante,37,14.8,2020-05-02,True
+5139,Branding 6,diseno,principiante,22,10.7,2020-09-16,True
+5140,Motion Graphics 6,diseno,principiante,30,14.0,2020-08-12,True
+5141,Photoshop Pro 6,diseno,intermedio,26,12.3,2022-04-01,True
+5142,Tipografía 6,diseno,principiante,44,16.8,2020-09-30,True
+5143,Figma para UX 7,diseno,intermedio,36,14.2,2021-01-10,True
+5144,Diseño Gráfico 7,diseno,principiante,30,12.2,2020-12-08,True
+5145,Ilustración Digital 7,diseno,intermedio,41,12.7,2021-11-08,True
+5146,Branding 7,diseno,intermedio,27,11.6,2022-05-01,True
+5147,Motion Graphics 7,diseno,principiante,41,20.7,2020-05-16,True
+5148,Photoshop Pro 7,diseno,principiante,25,10.7,2020-01-08,True
+5149,Tipografía 7,diseno,avanzado,48,18.8,2021-04-16,True
+5150,Figma para UX 8,diseno,avanzado,35,11.9,2020-04-17,True
+5151,Diseño Gráfico 8,diseno,principiante,24,9.6,2021-06-29,True
+5152,Ilustración Digital 8,diseno,principiante,33,10.3,2021-04-13,True
+5153,Branding 8,diseno,principiante,33,12.2,2021-11-08,True
+5154,Motion Graphics 8,diseno,avanzado,30,12.5,2021-10-18,True
+5155,PHOTOSHOP PRO 8,diseno,intermedio,36,13.9,2021-10-28,True
+5156,Tipografía 8,diseno,principiante,36,19.8,2021-02-15,True
+5157,Figma para UX 9,diseno,avanzado,34,12.1,2020-07-14,True
+5158,Diseño Gráfico 9,diseno,principiante,46,23.6,2022-11-01,True
+5159,Ilustración Digital 9,diseno,principiante,39,17.4,2021-09-25,True
+5160,Branding 9,diseno,intermedio,39,17.9,2021-11-08,True
+5161,Motion Graphics 9,diseno,intermedio,27,14.7,2021-12-24,True
+5162,Photoshop Pro 9,diseno,principiante,29,9.5,2021-08-11,True
+5163,Tipografía 9,diseno,principiante,25,11.5,2020-10-07,True
+5164,Figma para UX 10,diseno,principiante,41,18.2,2020-01-14,True
+5165,Diseño Gráfico 10,diseno,intermedio,42,15.1,2020-11-06,True
+5166,Ilustración Digital 10,diseno,principiante,29,9.5,2021-10-09,True
+5167,Branding 10,diseno,avanzado,24,10.6,2020-05-09,True
+5168,Motion Graphics 10,diseno,intermedio,42,20.8,2021-09-09,True
+5169,Photoshop Pro 10,diseno,principiante,22,9.3,2020-05-04,True
+5170,Tipografía 10,diseno,intermedio,22,8.3,2020-09-30,True
+5171,Figma para UX 11,diseno,principiante,30,10.5,2022-05-17,True
+5172,Diseño Gráfico 11,diseno,intermedio,32,16.8,2022-05-06,True
+5173,ILUSTRACIÓN DIGITAL 11,diseno,intermedio,28,9.2,2021-04-03,True
+5174,BRANDING 11,diseno,principiante,36,19.3,2020-04-05,True
+5175,Motion Graphics 11,diseno,principiante,28,9.1,2021-06-26,True
+5176,Photoshop Pro 11,diseno,avanzado,34,16.9,2022-03-05,True
+5177,Tipografía 11,diseno,avanzado,18,7.4,2020-08-10,True
+5178,Figma para UX 12,diseno,intermedio,31,10.4,2021-04-04,True
+5179,Diseño Gráfico 12,diseno,avanzado,33,11.3,2021-11-08,True
+5180,Ilustración Digital 12,diseno,principiante,23,12.5,2022-08-01,True
+5181,Branding 12,diseno,intermedio,34,17.0,2019-12-20,True
+5182,Motion Graphics 12,diseno,principiante,35,11.6,2022-01-31,True
+5183,Photoshop Pro 12,diseno,intermedio,29,10.6,2021-09-06,True
+5184,Tipografía 12,diseno,avanzado,37,16.4,2021-07-25,True
+5185,Figma para UX 13,diseno,intermedio,35,16.6,2020-11-21,True
+5186,Diseño Gráfico 13,diseno,intermedio,35,12.7,2020-06-20,True
+5187,Ilustración Digital 13,diseno,intermedio,34,13.3,2022-01-15,True
+5188,Branding 13,diseno,principiante,47,19.4,2021-03-08,True
+5189,Motion Graphics 13,diseno,avanzado,22,10.3,2021-10-31,True
+5190,Photoshop Pro 13,diseno,principiante,33,13.5,2020-02-15,True
+5191,Tipografía 13,diseno,intermedio,29,15.2,2022-02-23,True
+5192,Figma para UX 14,diseno,principiante,44,19.4,2020-09-26,True
+5193,Diseño Gráfico 14,diseno,principiante,27,14.8,2020-10-26,True
+5194,Ilustración Digital 14,diseno,principiante,28,9.6,2020-03-10,True
+5195,Branding 14,diseno,principiante,23,12.3,2021-10-31,True
+5196,Motion Graphics 14,diseno,principiante,35,16.1,2021-03-08,True
+5197,Photoshop Pro 14,diseno,principiante,32,11.1,2021-10-31,True
+5198,Tipografía 14,diseno,intermedio,38,20.7,2020-12-03,True
+5199,Figma para UX 15,diseno,principiante,41,21.4,2020-09-20,True
+5200,Diseño Gráfico 15,diseno,avanzado,35,15.1,2021-05-19,True
+5201,SEO desde Cero 1,marketing,intermedio,34,10.3,2021-12-07,True
+5202,Publicidad en Meta 1,marketing,avanzado,35,16.9,2022-02-23,True
+5203,Email Marketing 1,marketing,intermedio,27,10.1,2020-09-03,True
+5204,Analítica Web 1,marketing,principiante,35,17.5,2021-10-07,True
+5205,COPYWRITING 1,marketing,principiante,31,13.9,2021-03-31,True
+5206,Growth Hacking 1,marketing,principiante,28,14.3,2021-07-05,True
+5207,Marketing de Contenidos 1,marketing,principiante,24,9.3,2021-03-15,True
+5208,SEO desde Cero 2,marketing,intermedio,27,14.7,2020-08-04,True
+5209,Publicidad en Meta 2,marketing,principiante,22,9.2,2020-10-19,True
+5210,Email Marketing 2,marketing,intermedio,38,12.2,2020-11-01,True
+5211,Analítica Web 2,marketing,avanzado,26,8.8,2020-03-01,True
+5212,Copywriting 2,marketing,avanzado,16,6.9,2020-09-02,True
+5213,Growth Hacking 2,marketing,avanzado,33,17.4,2020-06-13,True
+5214,Marketing de Contenidos 2,marketing,intermedio,34,16.6,2021-05-30,True
+5215,SEO desde Cero 3,marketing,principiante,29,11.2,2021-07-16,True
+5216,Publicidad en Meta 3,marketing,intermedio,25,7.9,2021-12-26,True
+5217,Email Marketing 3,marketing,intermedio,17,8.0,2020-02-10,True
+5218,Analítica Web 3,marketing,avanzado,33,13.0,2021-11-26,True
+5219,Copywriting 3,marketing,intermedio,20,7.0,2021-05-30,True
+5220,Growth Hacking 3,marketing,avanzado,29,9.6,2021-06-01,True
+5221,Marketing de Contenidos 3,marketing,intermedio,22,12.1,2021-04-11,True
+5222,SEO desde Cero 4,marketing,intermedio,39,17.4,2021-07-06,True
+5223,Publicidad en Meta 4,marketing,intermedio,-1,21.1,2022-05-02,False
+5224,Email Marketing 4,marketing,intermedio,22,10.3,2020-06-23,True
+5225,Analítica Web 4,marketing,avanzado,24,7.8,2020-01-23,True
+5226,Copywriting 4,marketing,intermedio,51,16.6,2020-11-15,True
+5227,Growth Hacking 4,marketing,principiante,35,11.3,2021-02-02,True
+5228,Marketing de Contenidos 4,marketing,principiante,35,10.8,2020-07-25,True
+5229,SEO desde Cero 5,marketing,principiante,13,6.1,2021-01-28,True
+5230,Publicidad en Meta 5,marketing,principiante,35,11.1,2021-03-22,True
+5231,Email Marketing 5,marketing,avanzado,29,13.2,2020-06-01,True
+5232,Analítica Web 5,marketing,avanzado,28,12.8,2022-11-04,True
+5233,Copywriting 5,marketing,intermedio,40,15.4,2022-03-29,True
+5234,Growth Hacking 5,marketing,intermedio,29,9.2,2021-08-18,True
+5235,Marketing de Contenidos 5,marketing,principiante,29,12.2,2022-11-01,True
+5236,SEO desde Cero 6,marketing,intermedio,32,16.4,2020-07-21,True
+5237,Publicidad en Meta 6,marketing,intermedio,29,14.8,2021-04-20,True
+5238,Email Marketing 6,marketing,principiante,34,16.7,2021-03-17,True
+5239,Analítica Web 6,marketing,intermedio,39,20.4,2022-05-31,True
+5240,Copywriting 6,marketing,principiante,21,11.1,2020-07-30,True
+5241,Growth Hacking 6,marketing,avanzado,9,4.3,2020-05-16,True
+5242,Marketing de Contenidos 6,marketing,principiante,29,14.4,2021-08-03,True
+5243,SEO desde Cero 7,marketing,principiante,29,13.1,2020-05-08,True
+5244,Publicidad en Meta 7,marketing,principiante,26,-2.0,2021-02-27,False
+5245,Email Marketing 7,marketing,principiante,40,12.4,2021-04-04,True
+5246,Analítica Web 7,marketing,intermedio,41,14.3,2021-05-27,True
+5247,Copywriting 7,marketing,avanzado,30,12.4,2021-04-09,True
+5248,Growth Hacking 7,marketing,principiante,28,10.1,2021-03-24,True
+5249,Marketing de Contenidos 7,marketing,intermedio,26,12.7,2020-04-02,True
+5250,SEO desde Cero 8,marketing,intermedio,27,14.5,2021-09-15,True
+5251,Publicidad en Meta 8,marketing,avanzado,45,20.6,2021-04-25,True
+5252,Email Marketing 8,marketing,avanzado,26,11.2,2021-12-10,True
+5253,Analítica Web 8,marketing,avanzado,36,16.6,2020-03-19,True
+5254,Copywriting 8,marketing,avanzado,34,11.1,2020-12-18,True
+5255,Growth Hacking 8,marketing,avanzado,18,6.0,2022-01-01,True
+5256,Marketing de Contenidos 8,marketing,intermedio,27,13.7,2021-04-21,True
+5257,SEO desde Cero 9,marketing,intermedio,33,15.6,2022-01-15,True
+5258,Publicidad en Meta 9,marketing,principiante,41,17.1,2021-10-22,True
+5259,Email Marketing 9,marketing,principiante,29,11.9,2022-02-19,True
+5260,Analítica Web 9,marketing,intermedio,20,9.7,2020-07-29,True
+5261,Copywriting 9,marketing,avanzado,31,10.0,2020-06-01,True
+5262,Growth Hacking 9,marketing,principiante,27,12.4,2021-11-30,True
+5263,Marketing de Contenidos 9,marketing,avanzado,44,15.8,2022-10-05,True
+5264,SEO desde Cero 10,marketing,principiante,17,8.5,2020-08-25,True
+5265,Publicidad en Meta 10,marketing,intermedio,39,14.9,2020-12-01,True
+5266,Email Marketing 10,marketing,intermedio,23,11.6,2020-11-10,True
+5267,Analítica Web 10,marketing,principiante,23,10.7,2022-05-29,True
+5268,Copywriting 10,marketing,principiante,41,12.7,2021-02-10,True
+5269,Growth Hacking 10,marketing,principiante,35,10.9,2021-05-24,True
+5270,Marketing de Contenidos 10,marketing,principiante,32,10.9,2021-05-29,True
+5271,SEO desde Cero 11,marketing,principiante,28,11.1,2020-11-14,True
+5272,Publicidad en Meta 11,marketing,principiante,29,12.9,2021-01-05,True
+5273,Email Marketing 11,marketing,avanzado,28,10.5,2021-09-09,True
+5274,Analítica Web 11,marketing,principiante,29,9.3,2020-04-08,True
+5275,Copywriting 11,marketing,avanzado,39,17.0,2022-12-05,True
+5276,Growth Hacking 11,marketing,principiante,25,8.2,2020-10-01,True
+5277,Marketing de Contenidos 11,marketing,intermedio,24,10.1,2020-10-07,True
+5278,SEO desde Cero 12,marketing,principiante,23,9.6,2021-02-07,True
+5279,Publicidad en Meta 12,marketing,principiante,39,16.9,2022-04-08,True
+5280,Email Marketing 12,marketing,avanzado,32,13.4,2022-05-28,True
+5281,Analítica Web 12,marketing,intermedio,27,11.9,2020-02-12,True
+5282,Copywriting 12,marketing,avanzado,29,12.7,2020-05-22,True
+5283,Growth Hacking 12,marketing,principiante,37,13.7,2020-09-28,True
+5284,Marketing de Contenidos 12,marketing,principiante,21,7.8,2020-04-04,True
+5285,SEO desde Cero 13,marketing,intermedio,26,8.1,2022-01-20,True
+5286,Publicidad en Meta 13,marketing,principiante,25,8.2,2021-02-18,True
+5287,Email Marketing 13,marketing,principiante,34,13.1,2020-06-17,True
+5288,Analítica Web 13,marketing,intermedio,35,18.7,2022-03-19,True
+5289,Copywriting 13,marketing,intermedio,17,5.3,2021-02-01,True
+5290,Growth Hacking 13,marketing,avanzado,24,12.2,2021-04-14,True
+5291,Marketing de Contenidos 13,marketing,intermedio,24,12.2,2021-09-05,True
+5292,SEO desde Cero 14,marketing,avanzado,32,16.5,2021-10-31,True
+5293,Publicidad en Meta 14,marketing,principiante,28,13.6,2021-07-10,True
+5294,EMAIL MARKETING 14,marketing,avanzado,21,9.7,2020-09-21,True
+5295,ANALÍTICA WEB 14,marketing,principiante,24,10.8,2020-05-02,True
+5296,Copywriting 14,marketing,avanzado,27,9.1,2021-01-11,True
+5297,Growth Hacking 14,marketing,intermedio,25,13.4,2021-04-08,True
+5298,Marketing de Contenidos 14,marketing,intermedio,28,10.9,2021-02-19,True
+5299,SEO desde Cero 15,marketing,principiante,27,10.5,2021-04-15,True
+5300,Publicidad en Meta 15,marketing,intermedio,26,8.6,2022-07-02,True
+5301,Excel Avanzado 1,ofimatica,intermedio,28,9.8,2020-07-29,True
+5302,Word Profesional 1,ofimatica,principiante,23,9.5,2022-04-02,True
+5303,PowerPoint Efectivo 1,ofimatica,principiante,20,8.9,2022-05-16,True
+5304,Google Sheets 1,ofimatica,avanzado,30,14.8,2021-03-07,True
+5305,Outlook y Correo 1,ofimatica,avanzado,26,8.9,2021-01-08,True
+5306,Notion Productividad 1,ofimatica,principiante,24,10.1,2020-08-31,True
+5307,Excel Avanzado 2,ofimatica,principiante,13,4.5,2020-07-30,True
+5308,Word Profesional 2,ofimatica,intermedio,20,7.6,2021-10-30,True
+5309,PowerPoint Efectivo 2,ofimatica,principiante,22,10.5,2021-10-27,True
+5310,Google Sheets 2,ofimatica,avanzado,8,4.0,2022-05-26,True
+5311,Outlook y Correo 2,ofimatica,principiante,31,16.3,2022-11-02,True
+5312,Notion Productividad 2,ofimatica,principiante,17,6.5,2021-03-14,True
+5313,Excel Avanzado 3,ofimatica,intermedio,28,11.4,2022-06-03,True
+5314,Word Profesional 3,ofimatica,avanzado,20,8.4,2020-08-28,True
+5315,PowerPoint Efectivo 3,ofimatica,principiante,26,9.3,2022-04-23,True
+5316,Google Sheets 3,ofimatica,intermedio,13,4.7,2020-04-06,True
+5317,Outlook y Correo 3,ofimatica,principiante,18,9.3,2021-05-15,True
+5318,Notion Productividad 3,ofimatica,intermedio,27,9.3,2021-08-24,True
+5319,Excel Avanzado 4,ofimatica,intermedio,34,15.9,2020-10-21,True
+5320,Word Profesional 4,ofimatica,avanzado,15,6.2,2021-06-15,True
+5321,PowerPoint Efectivo 4,ofimatica,principiante,21,7.3,2022-03-30,True
+5322,GOOGLE SHEETS 4,ofimatica,principiante,18,8.0,2020-06-16,True
+5323,Outlook y Correo 4,ofimatica,intermedio,12,5.4,2021-11-28,True
+5324,Notion Productividad 4,ofimatica,avanzado,15,6.3,2022-05-31,True
+5325,Excel Avanzado 5,ofimatica,principiante,22,10.0,2020-05-18,True
+5326,Word Profesional 5,ofimatica,principiante,11,4.5,2020-06-11,True
+5327,PowerPoint Efectivo 5,ofimatica,avanzado,28,15.3,2020-08-19,True
+5328,Google Sheets 5,ofimatica,principiante,26,9.8,2020-10-01,True
+5329,Outlook y Correo 5,ofimatica,principiante,17,6.2,2022-03-11,True
+5330,Notion Productividad 5,ofimatica,principiante,34,17.0,2021-06-29,True
+5331,Excel Avanzado 6,ofimatica,intermedio,19,9.2,2020-07-20,True
+5332,Word Profesional 6,ofimatica,principiante,17,9.0,2022-07-03,True
+5333,PowerPoint Efectivo 6,ofimatica,principiante,14,5.3,2022-05-28,True
+5334,Google Sheets 6,ofimatica,intermedio,28,9.3,2021-08-23,True
+5335,Outlook y Correo 6,ofimatica,principiante,15,7.5,2021-03-15,True
+5336,Notion Productividad 6,ofimatica,principiante,22,7.6,2022-02-26,True
+5337,Excel Avanzado 7,ofimatica,avanzado,19,6.6,2021-11-09,True
+5338,Word Profesional 7,ofimatica,principiante,35,16.0,2020-09-14,True
+5339,PowerPoint Efectivo 7,ofimatica,intermedio,25,12.8,2020-06-28,True
+5340,Google Sheets 7,ofimatica,intermedio,14,5.6,2022-03-26,True
+5341,OUTLOOK Y CORREO 7,ofimatica,intermedio,23,12.5,2021-08-17,True
+5342,Notion Productividad 7,ofimatica,intermedio,23,11.5,2020-02-17,True
+5343,Excel Avanzado 8,ofimatica,principiante,19,8.8,2020-11-24,True
+5344,Word Profesional 8,ofimatica,avanzado,32,13.2,2019-12-22,True
+5345,PowerPoint Efectivo 8,ofimatica,principiante,25,12.6,2020-12-03,True
+5346,Google Sheets 8,ofimatica,avanzado,28,8.6,2020-08-24,True
+5347,Outlook y Correo 8,ofimatica,avanzado,18,7.8,2020-11-12,True
+5348,Notion Productividad 8,ofimatica,principiante,14,4.4,2021-07-30,True
+5349,Excel Avanzado 9,ofimatica,intermedio,18,8.9,2019-12-27,True
+5350,Word Profesional 9,ofimatica,principiante,13,7.1,2021-08-20,True
+5351,PowerPoint Efectivo 9,ofimatica,principiante,28,15.4,2020-09-26,True
+5352,Google Sheets 9,ofimatica,principiante,20,6.9,2020-01-06,True
+5353,Outlook y Correo 9,ofimatica,principiante,38,17.4,2022-07-01,True
+5354,Notion Productividad 9,ofimatica,principiante,26,10.1,2021-05-10,True
+5355,Excel Avanzado 10,ofimatica,avanzado,19,7.4,2021-06-30,True
+5356,Word Profesional 10,ofimatica,avanzado,26,10.8,2020-10-04,True
+5357,PowerPoint Efectivo 10,ofimatica,principiante,10,3.9,2021-11-19,True
+5358,Google Sheets 10,ofimatica,avanzado,30,9.4,2020-01-14,True
+5359,Outlook y Correo 10,ofimatica,principiante,27,12.1,2021-04-04,True
+5360,Notion Productividad 10,ofimatica,principiante,18,8.2,2020-11-22,True
+5361,Excel Avanzado 11,ofimatica,principiante,11,4.9,2021-08-11,True
+5362,Word Profesional 11,ofimatica,intermedio,22,10.7,2020-11-22,True
+5363,PowerPoint Efectivo 11,ofimatica,principiante,11,4.6,2020-07-11,True
+5364,Google Sheets 11,ofimatica,intermedio,22,7.2,2021-03-13,True
+5365,Outlook y Correo 11,ofimatica,intermedio,16,5.1,2020-09-27,True
+5366,Notion Productividad 11,ofimatica,intermedio,39,12.8,2021-10-26,True
+5367,Excel Avanzado 12,ofimatica,intermedio,22,11.4,2020-11-15,True
+5368,Word Profesional 12,ofimatica,intermedio,25,8.7,2020-03-14,True
+5369,PowerPoint Efectivo 12,ofimatica,principiante,23,11.1,2020-03-06,True
+5370,Google Sheets 12,ofimatica,avanzado,36,12.8,2022-05-22,True
+5371,Outlook y Correo 12,ofimatica,principiante,18,8.1,2021-10-27,True
+5372,Notion Productividad 12,ofimatica,principiante,24,10.0,2021-11-19,True
+5373,Excel Avanzado 13,ofimatica,intermedio,26,14.1,2019-12-27,True
+5374,Word Profesional 13,ofimatica,intermedio,42,16.2,2020-10-01,True
+5375,PowerPoint Efectivo 13,ofimatica,principiante,16,5.5,2022-01-19,True
+5376,Google Sheets 13,ofimatica,principiante,22,10.7,2022-01-05,True
+5377,Outlook y Correo 13,ofimatica,avanzado,10,3.8,2021-10-18,True
+5378,Notion Productividad 13,ofimatica,principiante,19,8.2,2020-07-20,True
+5379,Excel Avanzado 14,ofimatica,principiante,25,9.5,2020-06-08,True
+5380,Word Profesional 14,ofimatica,intermedio,35,12.2,2020-04-14,True
+5381,PowerPoint Efectivo 14,ofimatica,principiante,26,12.3,2021-06-09,True
+5382,Google Sheets 14,ofimatica,intermedio,29,12.3,2020-03-03,True
+5383,Outlook y Correo 14,ofimatica,principiante,25,7.8,2021-03-28,True
+5384,Notion Productividad 14,ofimatica,intermedio,19,10.0,2022-04-05,True
+5385,Excel Avanzado 15,ofimatica,principiante,33,17.2,2020-02-15,True
+5386,Word Profesional 15,ofimatica,principiante,26,0.0,2021-04-20,False
+5387,PowerPoint Efectivo 15,ofimatica,intermedio,25,8.5,2020-01-21,True
+5388,Google Sheets 15,ofimatica,principiante,31,15.9,2020-06-19,True
+5389,Outlook y Correo 15,ofimatica,principiante,18,8.0,2022-04-04,True
+5390,Notion Productividad 15,ofimatica,avanzado,16,5.8,2020-11-01,True
+5391,Excel Avanzado 16,ofimatica,principiante,31,12.1,2022-03-25,True
+5392,Word Profesional 16,ofimatica,intermedio,12,5.1,2021-06-21,True
+5393,PowerPoint Efectivo 16,ofimatica,principiante,21,6.3,2021-06-16,True
+5394,Google Sheets 16,ofimatica,avanzado,20,10.1,2020-12-01,True
+5395,Outlook y Correo 16,ofimatica,intermedio,20,10.4,2021-02-13,True
+5396,Notion Productividad 16,ofimatica,intermedio,10,4.9,2022-01-28,True
+5397,Excel Avanzado 17,ofimatica,principiante,31,10.0,2022-04-17,True
+5398,Word Profesional 17,ofimatica,intermedio,24,13.0,2021-01-04,True
+5399,PowerPoint Efectivo 17,ofimatica,intermedio,19,7.3,2021-06-26,True
+5400,Google Sheets 17,ofimatica,principiante,11,4.8,2020-08-04,True
+5401,Inglés B1 1,idiomas,avanzado,27,8.6,2019-12-25,True
+5402,Inglés B2 1,idiomas,principiante,35,10.8,2020-01-25,True
+5403,Francés Básico 1,idiomas,principiante,44,23.6,2021-12-27,True
+5404,Alemán Inicial 1,idiomas,intermedio,34,17.0,2020-08-03,True
+5405,Italiano Turista 1,idiomas,intermedio,45,19.5,2020-11-06,True
+5406,Inglés de Negocios 1,idiomas,intermedio,28,14.2,2020-01-09,True
+5407,Portugués 1,idiomas,intermedio,28,14.6,2021-06-20,True
+5408,Inglés B1 2,idiomas,intermedio,32,12.8,2021-07-10,True
+5409,Inglés B2 2,idiomas,principiante,20,8.8,2021-01-23,True
+5410,Francés Básico 2,idiomas,avanzado,40,12.2,2021-03-12,True
+5411,Alemán Inicial 2,idiomas,intermedio,59,18.6,2021-04-14,True
+5412,Italiano Turista 2,idiomas,principiante,42,21.6,2021-02-27,True
+5413,Inglés de Negocios 2,idiomas,intermedio,38,19.1,2021-02-13,True
+5414,Portugués 2,idiomas,intermedio,22,9.7,2020-01-04,True
+5415,Inglés B1 3,idiomas,intermedio,39,15.8,2021-10-01,True
+5416,Inglés B2 3,idiomas,principiante,35,17.0,2021-12-30,True
+5417,Francés Básico 3,idiomas,intermedio,42,16.7,2021-03-13,True
+5418,Alemán Inicial 3,idiomas,principiante,41,21.1,2022-05-23,True
+5419,Italiano Turista 3,idiomas,intermedio,47,24.8,2021-10-28,True
+5420,Inglés de Negocios 3,idiomas,principiante,26,0.0,2020-05-25,False
+5421,Portugués 3,idiomas,intermedio,41,17.6,2020-09-23,True
+5422,Inglés B1 4,idiomas,principiante,38,16.8,2021-10-03,True
+5423,Inglés B2 4,idiomas,intermedio,35,18.5,2020-09-18,True
+5424,Francés Básico 4,idiomas,avanzado,40,17.5,2020-12-20,True
+5425,Alemán Inicial 4,idiomas,intermedio,27,14.2,2021-02-25,True
+5426,Italiano Turista 4,idiomas,intermedio,34,13.5,2020-05-07,True
+5427,Inglés de Negocios 4,idiomas,intermedio,39,14.1,2021-09-30,True
+5428,Portugués 4,idiomas,principiante,52,22.1,2021-03-01,True
+5429,Inglés B1 5,idiomas,avanzado,41,13.4,2022-10-05,True
+5430,Inglés B2 5,idiomas,intermedio,41,12.6,2020-10-31,True
+5431,Francés Básico 5,idiomas,intermedio,46,23.3,2021-08-22,True
+5432,Alemán Inicial 5,idiomas,avanzado,34,17.9,2021-08-03,True
+5433,Italiano Turista 5,idiomas,intermedio,41,12.9,2021-10-04,True
+5434,Inglés de Negocios 5,idiomas,avanzado,42,17.0,2021-10-07,True
+5435,Portugués 5,idiomas,principiante,42,-1.5,2020-02-21,False
+5436,Inglés B1 6,idiomas,avanzado,36,14.3,2022-03-20,True
+5437,Inglés B2 6,idiomas,intermedio,37,19.5,2020-12-05,True
+5438,Francés Básico 6,idiomas,avanzado,32,14.0,2021-12-31,True
+5439,Alemán Inicial 6,idiomas,intermedio,42,21.8,2022-01-05,True
+5440,Italiano Turista 6,idiomas,intermedio,44,14.9,2022-01-27,True
+5441,Inglés de Negocios 6,idiomas,avanzado,32,11.5,2022-05-18,True
+5442,Portugués 6,idiomas,principiante,36,16.1,2020-03-09,True
+5443,Inglés B1 7,idiomas,avanzado,45,19.4,2022-02-21,True
+5444,Inglés B2 7,idiomas,intermedio,48,22.5,2020-10-27,True
+5445,Francés Básico 7,idiomas,principiante,54,23.8,2021-11-03,True
+5446,Alemán Inicial 7,idiomas,avanzado,38,12.7,2020-10-29,True
+5447,Italiano Turista 7,idiomas,intermedio,48,17.3,2021-03-26,True
+5448,Inglés de Negocios 7,idiomas,intermedio,25,8.6,2020-09-09,True
+5449,Portugués 7,idiomas,intermedio,56,22.6,2020-12-17,True
+5450,Inglés B1 8,idiomas,intermedio,41,21.6,2021-01-24,True
+5451,Inglés B2 8,idiomas,principiante,34,10.8,2022-01-24,True
+5452,Francés Básico 8,idiomas,avanzado,27,12.3,2020-03-21,True
+5453,Alemán Inicial 8,idiomas,principiante,47,18.7,2021-07-22,True
+5454,Italiano Turista 8,idiomas,principiante,44,13.6,2019-12-21,True
+5455,Inglés de Negocios 8,idiomas,avanzado,42,13.3,2021-04-07,True
+5456,Portugués 8,idiomas,principiante,41,16.6,2019-12-17,True
+5457,INGLÉS B1 9,idiomas,avanzado,37,11.9,2020-10-29,True
+5458,Inglés B2 9,idiomas,avanzado,49,22.7,2021-08-17,True
+5459,Francés Básico 9,idiomas,principiante,36,16.9,2020-01-05,True
+5460,Alemán Inicial 9,idiomas,intermedio,55,18.2,2020-06-04,True
+5461,Italiano Turista 9,idiomas,principiante,46,15.7,2021-08-02,True
+5462,Inglés de Negocios 9,idiomas,principiante,45,23.2,2020-04-11,True
+5463,Portugués 9,idiomas,avanzado,28,9.8,2020-02-04,True
+5464,Inglés B1 10,idiomas,avanzado,37,19.9,2022-02-09,True
+5465,Inglés B2 10,idiomas,intermedio,55,18.3,2022-05-10,True
+5466,Francés Básico 10,idiomas,principiante,30,14.3,2020-12-27,True
+5467,Alemán Inicial 10,idiomas,intermedio,46,22.3,2020-11-07,True
+5468,Italiano Turista 10,idiomas,principiante,34,16.9,2022-03-19,True
+5469,Inglés de Negocios 10,idiomas,principiante,40,13.1,2021-03-24,True
+5470,Portugués 10,idiomas,intermedio,39,16.5,2020-03-26,True
+5471,Inglés B1 11,idiomas,principiante,45,13.5,2021-12-10,True
+5472,INGLÉS B2 11,idiomas,intermedio,42,15.3,2020-03-01,True
+5473,Francés Básico 11,idiomas,intermedio,38,14.3,2020-04-18,True
+5474,Alemán Inicial 11,idiomas,avanzado,35,11.8,2020-05-31,True
+5475,Italiano Turista 11,idiomas,principiante,33,13.9,2021-06-28,True
+5476,Inglés de Negocios 11,idiomas,principiante,32,12.7,2021-10-22,True
+5477,Portugués 11,idiomas,intermedio,50,26.6,2020-10-01,True
+5478,Inglés B1 12,idiomas,avanzado,40,16.6,2021-09-22,True
+5479,Inglés B2 12,idiomas,principiante,39,14.0,2021-10-25,True
+5480,Francés Básico 12,idiomas,principiante,41,18.9,2021-09-10,True
+5481,Alemán Inicial 12,idiomas,intermedio,50,21.8,2022-12-01,True
+5482,Italiano Turista 12,idiomas,avanzado,43,19.8,2021-01-14,True
+5483,Inglés de Negocios 12,idiomas,intermedio,0,19.0,2022-04-17,False
+5484,Portugués 12,idiomas,avanzado,37,19.0,2020-04-01,True
+5485,Inglés B1 13,idiomas,intermedio,32,16.2,2020-03-17,True
+5486,Inglés B2 13,idiomas,intermedio,43,16.9,2020-03-26,True
+5487,Francés Básico 13,idiomas,intermedio,42,19.1,2021-01-26,True
+5488,Alemán Inicial 13,idiomas,principiante,37,15.7,2022-03-18,True
+5489,Italiano Turista 13,idiomas,principiante,49,17.0,2020-05-05,True
+5490,Inglés de Negocios 13,idiomas,principiante,42,16.6,2020-05-25,True
+5491,Portugués 13,idiomas,intermedio,40,15.5,2022-01-02,True
+5492,Inglés B1 14,idiomas,avanzado,54,16.6,2021-08-23,True
+5493,Inglés B2 14,idiomas,principiante,33,16.6,2021-10-22,True
+5494,Francés Básico 14,idiomas,principiante,34,11.7,2020-08-09,True
+5495,Alemán Inicial 14,idiomas,intermedio,45,15.9,2021-10-26,True
+5496,Italiano Turista 14,idiomas,principiante,42,13.1,2021-08-01,True
+5497,Inglés de Negocios 14,idiomas,avanzado,30,13.7,2022-08-03,True
+5498,Portugués 14,idiomas,principiante,33,16.0,2021-02-24,True
+5499,Inglés B1 15,idiomas,intermedio,49,19.6,2020-09-16,True
+5500,Inglés B2 15,idiomas,avanzado,30,16.3,2020-09-16,True
+5501,Finanzas Personales 1,negocios,intermedio,37,19.7,2021-06-14,True
+5502,Emprender 1,negocios,principiante,31,11.6,2022-04-29,True
+5503,Gestión de Equipos 1,negocios,intermedio,23,9.5,2022-02-26,True
+5504,Ventas B2B 1,negocios,principiante,30,15.9,2021-12-10,True
+5505,Product Management 1,negocios,avanzado,20,7.1,2021-06-12,True
+5506,Negociación 1,negocios,principiante,47,22.1,2020-06-22,True
+5507,Contabilidad Básica 1,negocios,intermedio,19,9.4,2021-10-31,True
+5508,Finanzas Personales 2,negocios,avanzado,14,4.8,2019-12-17,True
+5509,Emprender 2,negocios,principiante,23,9.2,2020-02-21,True
+5510,Gestión de Equipos 2,negocios,intermedio,43,14.1,2020-05-25,True
+5511,Ventas B2B 2,negocios,principiante,28,11.9,2022-03-23,True
+5512,Product Management 2,negocios,avanzado,19,7.9,2021-03-29,True
+5513,Negociación 2,negocios,principiante,42,19.9,2020-11-29,True
+5514,Contabilidad Básica 2,negocios,intermedio,26,11.8,2020-05-20,True
+5515,Finanzas Personales 3,negocios,principiante,35,15.0,2022-01-25,True
+5516,Emprender 3,negocios,intermedio,27,13.2,2022-04-19,True
+5517,Gestión de Equipos 3,negocios,avanzado,18,8.6,2020-03-11,True
+5518,Ventas B2B 3,negocios,principiante,27,8.3,2020-11-18,True
+5519,Product Management 3,negocios,principiante,32,16.0,2021-02-27,True
+5520,Negociación 3,negocios,principiante,33,12.9,2021-03-10,True
+5521,Contabilidad Básica 3,negocios,intermedio,13,6.4,2020-12-20,True
+5522,Finanzas Personales 4,negocios,principiante,25,8.2,2021-06-16,True
+5523,Emprender 4,negocios,principiante,15,6.6,2022-05-21,True
+5524,Gestión de Equipos 4,negocios,principiante,32,13.7,2020-07-03,True
+5525,Ventas B2B 4,negocios,intermedio,21,11.0,2020-03-30,True
+5526,Product Management 4,negocios,principiante,25,7.6,2021-05-16,True
+5527,Negociación 4,negocios,intermedio,19,6.5,2020-07-06,True
+5528,Contabilidad Básica 4,negocios,principiante,22,6.7,2021-11-11,True
+5529,Finanzas Personales 5,negocios,intermedio,28,9.5,2021-05-05,True
+5530,Emprender 5,negocios,intermedio,27,12.6,2020-02-12,True
+5531,Gestión de Equipos 5,negocios,principiante,22,9.6,2021-03-10,True
+5532,Ventas B2B 5,negocios,principiante,28,9.9,2020-05-14,True
+5533,Product Management 5,negocios,principiante,28,12.1,2020-08-17,True
+5534,Negociación 5,negocios,principiante,18,8.7,2020-05-17,True
+5535,Contabilidad Básica 5,negocios,intermedio,33,13.6,2021-10-19,True
+5536,FINANZAS PERSONALES 6,negocios,intermedio,34,18.5,2021-06-03,True
+5537,Emprender 6,negocios,principiante,17,8.1,2020-11-07,True
+5538,Gestión de Equipos 6,negocios,intermedio,38,16.9,2020-07-09,True
+5539,Ventas B2B 6,negocios,intermedio,25,7.6,2020-03-26,True
+5540,Product Management 6,negocios,intermedio,38,18.1,2019-12-14,True
+5541,Negociación 6,negocios,avanzado,27,8.4,2022-09-01,True
+5542,Contabilidad Básica 6,negocios,intermedio,24,9.1,2021-06-04,True
+5543,Finanzas Personales 7,negocios,avanzado,42,17.0,2021-01-02,True
+5544,Emprender 7,negocios,principiante,35,17.4,2020-04-21,True
+5545,Gestión de Equipos 7,negocios,intermedio,22,10.2,2020-04-25,True
+5546,Ventas B2B 7,negocios,avanzado,34,17.1,2020-12-29,True
+5547,Product Management 7,negocios,principiante,33,12.9,2022-02-18,True
+5548,Negociación 7,negocios,intermedio,36,15.5,2021-12-08,True
+5549,Contabilidad Básica 7,negocios,intermedio,37,13.5,2020-08-18,True
+5550,Finanzas Personales 8,negocios,principiante,20,10.5,2020-05-21,True
+5551,Emprender 8,negocios,avanzado,25,13.2,2021-11-13,True
+5552,Gestión de Equipos 8,negocios,principiante,23,10.3,2021-10-29,True
+5553,Ventas B2B 8,negocios,principiante,33,14.5,2020-03-17,True
+5554,Product Management 8,negocios,avanzado,28,9.7,2021-03-25,True
+5555,Negociación 8,negocios,principiante,35,14.8,2021-09-30,True
+5556,Contabilidad Básica 8,negocios,principiante,24,10.3,2022-04-25,True
+5557,Finanzas Personales 9,negocios,principiante,21,9.0,2021-01-28,True
+5558,Emprender 9,negocios,avanzado,28,11.5,2021-09-03,True
+5559,Gestión de Equipos 9,negocios,intermedio,26,10.3,2020-04-08,True
+5560,Ventas B2B 9,negocios,principiante,34,11.7,2020-06-23,True
+5561,Product Management 9,negocios,principiante,38,17.1,2020-06-23,True
+5562,Negociación 9,negocios,principiante,35,18.3,2020-04-05,True
+5563,Contabilidad Básica 9,negocios,avanzado,21,8.0,2021-06-24,True
+5564,Finanzas Personales 10,negocios,principiante,28,10.4,2020-06-21,True
+5565,Emprender 10,negocios,intermedio,30,13.8,2020-10-17,True
+5566,Gestión de Equipos 10,negocios,intermedio,14,6.4,2020-06-10,True
+5567,Ventas B2B 10,negocios,intermedio,40,21.9,2020-04-25,True
+5568,Product Management 10,negocios,principiante,31,9.6,2020-09-28,True
+5569,Negociación 10,negocios,principiante,43,15.8,2021-09-02,True
+5570,Contabilidad Básica 10,negocios,avanzado,19,7.5,2020-07-24,True
+5571,Finanzas Personales 11,negocios,principiante,48,15.3,2020-02-09,True
+5572,Emprender 11,negocios,avanzado,0,6.5,2020-12-03,False
+5573,Gestión de Equipos 11,negocios,principiante,29,10.2,2021-10-14,True
+5574,Ventas B2B 11,negocios,avanzado,33,12.3,2021-11-01,True
+5575,Product Management 11,negocios,principiante,15,-3.0,2022-04-05,False
+5576,Negociación 11,negocios,avanzado,17,6.0,2021-10-27,True
+5577,Contabilidad Básica 11,negocios,principiante,23,11.3,2021-04-05,True
+5578,Finanzas Personales 12,negocios,principiante,29,10.8,2021-07-28,True
+5579,Emprender 12,negocios,intermedio,20,7.0,2022-01-23,True
+5580,Gestión de Equipos 12,negocios,intermedio,40,13.9,2020-11-07,True
+5581,Ventas B2B 12,negocios,avanzado,26,10.8,2021-02-12,True
+5582,Product Management 12,negocios,principiante,23,7.4,2022-02-23,True
+5583,Negociación 12,negocios,principiante,19,6.7,2021-10-14,True
+5584,Contabilidad Básica 12,negocios,intermedio,18,9.9,2020-09-26,True
+5585,Finanzas Personales 13,negocios,intermedio,44,17.2,2020-09-23,True
+5586,Emprender 13,negocios,intermedio,23,8.2,2021-11-07,True
+5587,Gestión de Equipos 13,negocios,principiante,43,17.7,2020-10-31,True
+5588,Ventas B2B 13,negocios,principiante,41,21.1,2021-07-05,True
+5589,Product Management 13,negocios,principiante,23,11.3,2020-05-31,True
+5590,Negociación 13,negocios,intermedio,12,3.8,2020-11-12,True
+5591,Contabilidad Básica 13,negocios,principiante,30,11.6,2020-09-29,True
+5592,Finanzas Personales 14,negocios,principiante,30,10.4,2021-08-02,True
+5593,Emprender 14,negocios,principiante,34,12.1,2021-02-23,True
+5594,GESTIÓN DE EQUIPOS 14,negocios,intermedio,32,16.5,2021-10-27,True
+5595,Ventas B2B 14,negocios,avanzado,37,15.2,2021-05-10,True
+5596,Product Management 14,negocios,principiante,22,7.0,2021-05-28,True
+5597,Negociación 14,negocios,principiante,28,14.1,2020-04-13,True
+5598,Contabilidad Básica 14,negocios,intermedio,14,5.7,2020-12-29,True
+5599,Finanzas Personales 15,negocios,intermedio,34,16.7,2020-05-09,True
+5600,Emprender 15,negocios,intermedio,23,11.3,2021-01-15,True

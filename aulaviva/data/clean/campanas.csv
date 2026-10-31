@@ -1,0 +1,46 @@
+campana_id,canal,nombre,fecha_inicio,fecha_fin,coste,tipo
+1001,cupon,Cupon Bienvenida,2023-05-18,2023-11-12,5397.33,descuento
+1002,cupon,Descuento Flash,2023-07-06,2023-08-21,7261.51,descuento
+1003,cupon,Black Friday,2023-01-30,2023-04-22,3542.64,descuento
+1004,cupon,Rebajas Enero,2023-08-23,2023-09-13,7181.71,descuento
+1005,cupon,Cupon Verano,2023-04-24,2023-09-22,3834.6,descuento
+1006,cupon,Vuelta al Cole,2022-08-19,2022-12-11,3321.3,descuento
+1007,cupon,Promo Estudiantes,2022-06-20,2022-11-13,5818.89,descuento
+1008,cupon,2x1 Cursos,2023-03-29,2023-05-06,4499.96,descuento
+1009,cupon,Descuento 70,2022-10-04,2022-11-15,6896.37,promo
+1010,cupon,Cupon Reactivacion,2023-08-24,,5459.14,descuento
+1011,cupon,Cupon Bienvenida 2,2022-07-31,2022-12-10,7448.77,descuento
+1012,cupon,Descuento Flash 2,2023-04-05,2023-12-06,3098.16,descuento
+1013,cupon,Black Friday 2,2022-07-20,2022-10-26,4540.09,promo
+1014,cupon,Rebajas Enero 2,2023-08-30,2024-02-04,6035.22,descuento
+1015,cupon,Cupon Verano 2,2023-02-07,2023-03-17,3722.74,descuento
+1016,cupon,Vuelta al Cole 2,2023-01-01,2023-02-18,2784.54,descuento
+1017,cupon,Promo Estudiantes 2,2022-12-25,2023-03-24,5542.89,descuento
+1018,cupon,2x1 Cursos 2,2022-02-06,2022-07-05,4814.14,descuento
+1019,anuncios,Meta Prospecting,2023-06-13,2023-05-07,32710.08,banner
+1020,anuncios,Google Search Marca,2023-12-10,2023-12-18,19618.1,display
+1021,anuncios,YOUTUBE SKIPPABLE,2022-11-22,2023-03-17,10731.65,display
+1022,anuncios,Instagram Reels,2022-04-08,2022-12-21,12943.28,display
+1023,anuncios,Display Remarketing,2023-03-22,2023-08-08,24732.9,banner
+1024,anuncios,TikTok Ads,2023-05-10,2024-10-03,24237.64,banner
+1025,anuncios,Meta Lookalike,2023-04-04,2023-04-07,19497.76,display
+1026,anuncios,Meta Prospecting 2,2022-09-09,,9057.47,display
+1027,anuncios,Google Search Marca 2,2023-09-22,2023-12-22,22087.05,display
+1028,anuncios,YouTube Skippable 2,2023-01-06,2023-04-13,14686.99,banner
+1029,anuncios,Instagram Reels 2,2023-02-21,2023-05-10,20897.08,display
+1030,anuncios,Display Remarketing 2,2023-03-16,2023-09-05,0.0,display
+1031,empresas,B2B Formacion,2023-07-19,2023-10-25,10489.84,b2b
+1032,empresas,Planes Corporativos,2023-09-12,2024-02-19,7340.86,b2b
+1033,empresas,Onboarding Empresas,2023-06-04,2023-07-14,14800.5,corporativo
+1034,empresas,Upskilling Teams,2023-04-03,2023-04-23,11912.55,b2b
+1035,empresas,Convenio Camaras,2022-10-15,2022-11-14,14277.5,b2b
+1036,empresas,B2B Formacion 2,2022-11-16,2023-04-28,15546.28,b2b
+1037,empresas,Planes Corporativos 2,2022-10-31,2023-03-18,14926.37,b2b
+1038,empresas,Onboarding Empresas 2,2023-07-09,2023-12-12,6706.1,corporativo
+1039,referido,Programa Referidos,2022-12-28,2023-03-26,4746.57,referral
+1040,referido,Invita a un Amigo,2023-09-17,,5392.6,recompensa
+1041,referido,Recompensa Alumno,2022-09-05,2022-09-25,6692.81,recompensa
+1042,referido,Trae un Colega,2022-06-20,2022-10-27,4861.02,recompensa
+1043,referido,Programa Referidos 2,2022-08-08,2022-09-15,6507.61,recompensa
+1044,referido,Invita a un Amigo 2,2023-01-08,2024-05-01,11474.88,referral
+1045,referido,Recompensa Alumno 2,2023-02-01,2023-05-03,8324.51,recompensa
