@@ -4,7 +4,7 @@
 
 **Analista de datos y de fútbol · Scouting y análisis táctico**
 
-Cuatro casos de negocio resueltos de principio a fin con Python y SQL. Cada proyecto sigue el formato de encargo de 5 días: auditoría de datos, limpieza, ranking de superficie, descubrimiento del hallazgo, control de variables de confusión y one-pager ejecutivo con visualizaciones. La pregunta común: **la métrica que se ve en el panel (volumen, facturación, ocupación) ¿coincide con la que deja dinero?**
+Ocho casos de negocio resueltos de principio a fin con Python y SQL. Cada proyecto sigue el formato de encargo de 5 días: auditoría de datos, limpieza, ranking de superficie, descubrimiento del hallazgo, control de variables de confusión y one-pager ejecutivo con visualizaciones. La pregunta común: **la métrica que se ve en el panel (volumen, facturación, ocupación) ¿coincide con la que deja dinero?**
 
 ## Proyectos
 
@@ -14,12 +14,17 @@ Cuatro casos de negocio resueltos de principio a fin con Python y SQL. Cada proy
 | 2 | **AulaViva** | EdTech / Cursos online | Valor y LTV por canal de captación: finalización, renovación y cuota de valor. | [`aulaviva/`](aulaviva/) |
 | 3 | **Ampara** | Seguros | Rentabilidad técnica por canal: Loss Ratio, Combined Ratio, renovación y margen. | [`ampara/`](ampara/) |
 | 4 | **El Mirador** | Hotelería | Escalera ocupación → ADR → RevPAR → GOPPAR por hotel y canal de venta. | [`elmirador/`](elmirador/) |
+| 5 | **PlayLoop** | Videojuegos móviles (F2P) | Retención por cohortes, embudo de niveles, ROAS/LTV por canal y modelo de churn. | [`playloop/`](playloop/) |
+| 6 | **NidoHogar** | Portal inmobiliario (proptech) | Embudo visita → contacto → contrato y efecto real del anuncio destacado. | [`nidohogar/`](nidohogar/) |
+| 7 | **VueltaFit** | Fitness / Gimnasios | Plan anual vs. mensual: renovación, sesgo de supervivencia y hábito de los primeros 21 días. | [`vueltafit/`](vueltafit/) |
+| 8 | **RutaSabor** | Foodtech / Cocinas fantasma (delivery) | GMV vs. contribución por marca tras ingredientes, comisiones de marketplace e incidencias. | [`rutasabor/`](rutasabor/) |
 
 ## Habilidades demostradas
 
 - **Python:** Pandas, NumPy — EDA forense, limpieza y tipado sistemático, uniones y métricas de negocio.
 - **SQL:** DuckDB — rankings, `JOIN`s, embudos, cohortes y KPIs sobre tablas limpias.
 - **Visualización:** Matplotlib y Seaborn — gráficos ejecutivos orientados a la decisión.
+- **Machine Learning:** scikit-learn (modelo de predicción de churn en PlayLoop).
 - **Métricas de negocio:** LTV, CAC, ROAS, retención por cohortes, Loss/Combined Ratio, RevPAR/GOPPAR, margen de contribución, tasa de devolución.
 - **Pensamiento analítico:** control de variables de confusión (paradoja de Simpson), sesgo de supervivencia, contrafactuales.
 - **Comunicación:** one-pagers ejecutivos con recomendación accionable.

@@ -4,7 +4,7 @@
 
 **Data and football analyst · Scouting and tactical analysis**
 
-Four business cases solved end to end with Python and SQL. Each project follows a 5-day assignment format: data audit, cleaning, surface ranking, discovery of the key insight, control of confounding variables, and an executive one-pager with visualizations. The common question: **does the metric shown on the dashboard (volume, revenue, occupancy) match the one that actually makes money?**
+Eight business cases solved end to end with Python and SQL. Each project follows a 5-day assignment format: data audit, cleaning, surface ranking, discovery of the key insight, control of confounding variables, and an executive one-pager with visualizations. The common question: **does the metric shown on the dashboard (volume, revenue, occupancy) match the one that actually makes money?**
 
 ## Projects
 
@@ -16,12 +16,17 @@ Each project folder contains a `README.md` (Spanish) and a `README.en.md` (Engli
 | 2 | **AulaViva** | EdTech / Online courses | Value and LTV by acquisition channel: completion, renewal and value share. | [`aulaviva/`](aulaviva/) |
 | 3 | **Ampara** | Insurance | Technical profitability by channel: Loss Ratio, Combined Ratio, renewal and margin. | [`ampara/`](ampara/) |
 | 4 | **El Mirador** | Hospitality | Occupancy → ADR → RevPAR → GOPPAR ladder by hotel and sales channel. | [`elmirador/`](elmirador/) |
+| 5 | **PlayLoop** | Mobile gaming (F2P) | Cohort retention, level funnel, ROAS/LTV by channel and churn model. | [`playloop/`](playloop/) |
+| 6 | **NidoHogar** | Real-estate portal (proptech) | Visit → contact → contract funnel and the real effect of featured listings. | [`nidohogar/`](nidohogar/) |
+| 7 | **VueltaFit** | Fitness / Gyms | Annual vs. monthly plan: renewal, survivorship bias and the first-21-days habit. | [`vueltafit/`](vueltafit/) |
+| 8 | **RutaSabor** | Foodtech / Ghost kitchens (delivery) | GMV vs. contribution by brand after ingredients, marketplace commissions and incidents. | [`rutasabor/`](rutasabor/) |
 
 ## Skills demonstrated
 
 - **Python:** Pandas, NumPy — forensic EDA, systematic cleaning and typing, joins and business metrics.
 - **SQL:** DuckDB — rankings, `JOIN`s, funnels, cohorts and KPIs on clean tables.
 - **Visualization:** Matplotlib and Seaborn — decision-oriented executive charts.
+- **Machine Learning:** scikit-learn (churn prediction model in PlayLoop).
 - **Business metrics:** LTV, CAC, ROAS, cohort retention, Loss/Combined Ratio, RevPAR/GOPPAR, contribution margin, return rate.
 - **Analytical thinking:** control of confounding variables (Simpson's paradox), survivorship bias, counterfactuals.
 - **Communication:** executive one-pagers with actionable recommendations.
