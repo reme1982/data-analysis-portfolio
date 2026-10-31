@@ -1,0 +1,6 @@
+hotel_id,nombre,ciudad,tipo,categoria,habitaciones
+1,El Mirador Costa,MÁLAGA,Vacacional,4*, 220 
+2,El Mirador Playa Sur,Cádiz,resort,4, 165 
+3,El Mirador Centro,Madrid,ciudad,4*,165
+4,El Mirador Ciudad,Sevilla,urbano,4,150
+5,El Mirador Sierra,Granada  ,ciudad,3, 110 
