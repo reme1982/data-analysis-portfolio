@@ -1,0 +1,601 @@
+curso_id,titulo,categoria,nivel,n_lecciones,duracion_horas,fecha_publicacion
+5001,Python desde Cero 1,programacion,avanzado,26,"10,0 h",2021-02-16
+5002,JavaScript Moderno 1,programacion,basico,43,"22,0 h",2020-07-06
+5003,SQL Práctico 1,dev,Intermedio,42,"13,7 h",2021-08-21
+5004,React Avanzado 1,dev,Intermedio,33,"16,6 h",12 Apr 2020
+5005,APIs con Node 1,dev,Intermedio,39,"13,6 h",22/10/2020
+5006,Java Fundamentos 1  ,programacion,Intermedio,29,"13,6 h",17/07/2020
+5007,  Algoritmos 1 ,Programación,Principiante,49,"23,1 h",2019-12-20
+5008,Git y GitHub 1,dev,Intermedio,41,"18,6 h",18/03/2021
+5009,Python desde Cero 2,Programación,basico,34,"12,1 h",2021-07-23
+5010,JavaScript Moderno 2,dev,avanzado,53,"20,8 h",8 Mar 2022
+5011,SQL Práctico 2,programacion,principiante,54,"25,1 h",2021-03-15
+5012,React Avanzado 2,Programación,principiante,33,"16,0 h",2022-04-14
+5013,APIs con Node 2,dev,Intermedio,46,"22,1 h",2022-03-21
+5014,Java Fundamentos 2,Programación,intermedio,56,"27,5 h",2022-04-30
+5015,Algoritmos 2  ,dev,principiante,48,"15,4 h",26/03/2022
+5016,Git y GitHub 2,programacion,intermedio,45,"17,4 h",31/07/2020
+5017,Python desde Cero 3,programacion,intermedio,49,"24,0 h",16/09/2020
+5018,JavaScript Moderno 3,programacion,Principiante,40,"16,9 h",2020-12-15
+5019,SQL Práctico 3,programacion,principiante,45,"20,4 h",2021-11-28
+5020,React Avanzado 3,dev,Intermedio,31,"14,0 h",2020-02-17
+5021,APIs con Node 3,dev,basico,48,"17,7 h",30 Apr 2021
+5022,Java Fundamentos 3,Programación,Intermedio,39,"14,4 h",08/03/2022
+5023,Algoritmos 3  ,Programación,principiante,41,"15,6 h",2021-09-29
+5024,Git y GitHub 3,programacion,Intermedio,42,"18,2 h",15/10/2021
+5025,Python desde Cero 4,dev,Intermedio,58,"31,2 h",2021-11-29
+5026,JavaScript Moderno 4,Programación,basico,45,"22,4 h",20 Feb 2020
+5027,SQL Práctico 4,Programación,basico,0,"18,5 h",31/01/2020
+5028,React Avanzado 4,programacion,intermedio,23,"7,9 h",2020-08-07
+5029,APIs con Node 4,programacion,intermedio,33,"10,0 h",2022-01-17
+5030,Java Fundamentos 4,Programación,basico,44,"22,7 h",15/12/2019
+5031,Algoritmos 4,Programación,basico,42,"16,8 h",2020-04-15
+5032,Git y GitHub 4,Programación,Intermedio,43,"20,6 h",26 Mar 2020
+5033,Python desde Cero 5,Programación,Intermedio,51,"25,2 h",30/04/2020
+5034,JavaScript Moderno 5,dev,Intermedio,48,0 h,20/03/2021
+5035,SQL Práctico 5,Programación,Principiante,45,"14,2 h",28/03/2020
+5036,React Avanzado 5,Programación,Principiante,52,"16,0 h",09/07/2020
+5037,APIs con Node 5,Programación,intermedio,38,"18,3 h",07/05/2020
+5038,Java Fundamentos 5,programacion,Principiante,53,"23,9 h",22 Sep 2020
+5039,Algoritmos 5,dev,principiante,39,"16,7 h",21/12/2021
+5040,Git y GitHub 5,dev,basico,47,"17,2 h",2020-01-27
+5041,Python desde Cero 6,programacion,Intermedio,37,"12,2 h",23/03/2020
+5042,JavaScript Moderno 6,Programación,principiante,48,"22,9 h",2020-08-12
+5043,SQL PRÁCTICO 6,dev,experto,36,"18,4 h",2020-11-26
+5044,React Avanzado 6,programacion,experto,28,"14,1 h",27 Dec 2021
+5045,APIs con Node 6  ,dev,experto,47,"20,8 h",30 Sep 2020
+5046,Java Fundamentos 6,programacion,basico,47,"14,3 h",17/07/2020
+5047,Algoritmos 6,programacion,Intermedio,51,"22,1 h",7 Nov 2021
+5048,Git y GitHub 6,programacion,experto,38,"11,6 h",2021-02-03
+5049,Python desde Cero 7,dev,principiante,29,"10,3 h",2021-08-04
+5050,JavaScript Moderno 7,dev,intermedio,25,"9,9 h",18/06/2021
+5051,SQL Práctico 7,programacion,Principiante,41,"12,7 h",10/05/2022
+5052,React Avanzado 7,programacion,intermedio,50,"18,6 h",2020-08-17
+5053,APIs con Node 7,dev,basico,34,"15,3 h",2020-08-07
+5054,Java Fundamentos 7,Programación,intermedio,44,"19,5 h",2021-02-17
+5055,Algoritmos 7,dev,avanzado,39,"20,8 h",2021-04-22
+5056,GIT Y GITHUB 7,programacion,experto,35,"11,4 h",2020-12-20
+5057,Python desde Cero 8,Programación,intermedio,0,"21,7 h",08/01/2021
+5058,JavaScript Moderno 8,programacion,avanzado,31,"13,4 h",2021-10-15
+5059,SQL Práctico 8,Programación,principiante,31,"11,5 h",2021-12-28
+5060,React Avanzado 8,dev,Principiante,46,"19,3 h",24/04/2021
+5061,APIs con Node 8,dev,principiante,53,"24,3 h",18 Jul 2021
+5062,Java Fundamentos 8,Programación,intermedio,52,"17,4 h",2021-06-10
+5063,Algoritmos 8,programacion,Principiante,30,"9,2 h",2022-03-26
+5064,Git y GitHub 8,dev,Principiante,31,"12,5 h",2020-09-21
+5065,  Python desde Cero 9 ,programacion,basico,41,"20,6 h",2022-01-04
+5066,JavaScript Moderno 9,programacion,intermedio,31,"10,4 h",09/03/2022
+5067,SQL Práctico 9,programacion,Avanzado,47,"17,4 h",16/06/2020
+5068,React Avanzado 9,programacion,experto,46,"24,0 h",21/04/2021
+5069,  APIs con Node 9 ,programacion,Intermedio,26,"11,4 h",28 Jan 2021
+5070,Java Fundamentos 9,dev,basico,39,"19,1 h",2020-08-21
+5071,Algoritmos 9,programacion,Principiante,51,"25,8 h",2021-05-21
+5072,Git y GitHub 9,Programación,experto,-5,"9,6 h",18/06/2021
+5073,Python desde Cero 10,dev,basico,31,"11,9 h",2020-11-04
+5074,JavaScript Moderno 10,dev,Principiante,46,"15,9 h",13/01/2020
+5075,SQL Práctico 10,dev,Principiante,53,"27,2 h",14/09/2021
+5076,React Avanzado 10,Programación,basico,37,"19,5 h",2022-01-20
+5077,APIs con Node 10,programacion,principiante,43,"15,6 h",2022-01-10
+5078,Java Fundamentos 10,Programación,Avanzado,39,"12,7 h",2021-05-12
+5079,Algoritmos 10,programacion,basico,37,"20,3 h",02/10/2020
+5080,Git y GitHub 10,Programación,intermedio,39,"20,0 h",2021-03-10
+5081,Python desde Cero 11,programacion,principiante,48,"20,6 h",2022-04-09
+5082,JavaScript Moderno 11,Programación,Principiante,35,"13,5 h",20 Mar 2022
+5083,SQL Práctico 11,programacion,Intermedio,35,"14,5 h",2021-01-03
+5084,React Avanzado 11,dev,Intermedio,52,"21,9 h",2022-03-24
+5085,APIs con Node 11,Programación,Principiante,53,"28,1 h",2020-08-21
+5086,Java Fundamentos 11,programacion,Principiante,26,"13,2 h",2021-09-03
+5087,Algoritmos 11,dev,Principiante,32,"17,0 h",15/01/2021
+5088,Git y GitHub 11,Programación,Intermedio,32,"13,2 h",2022-02-22
+5089,Python desde Cero 12,Programación,principiante,45,"19,8 h",10/04/2020
+5090,JavaScript Moderno 12,programacion,avanzado,46,"15,1 h",2022-01-05
+5091,SQL Práctico 12,Programación,basico,49,"24,4 h",26/09/2021
+5092,REACT AVANZADO 12,Programación,Intermedio,36,"13,4 h",14 Nov 2021
+5093,APIs con Node 12,programacion,Principiante,45,"24,4 h",2020-02-28
+5094,Java Fundamentos 12,Programación,principiante,36,"13,3 h",13/04/2022
+5095,Algoritmos 12,dev,Principiante,39,"11,9 h",2021-11-08
+5096,GIT Y GITHUB 12,dev,basico,51,"21,8 h",2021-05-05
+5097,Python desde Cero 13,programacion,intermedio,45,"16,9 h",11/01/2020
+5098,JavaScript Moderno 13,programacion,basico,30,"15,4 h",06/04/2022
+5099,SQL Práctico 13,dev,experto,-3,"18,7 h",2020-10-13
+5100,React Avanzado 13,Programación,Intermedio,47,"21,4 h",20/01/2022
+5101,Figma para UX 1,Diseño,Principiante,38,"15,8 h",18 Jun 2021
+5102,Diseño Gráfico 1,Diseño,Principiante,-2,"14,0 h",1 Jun 2022
+5103,Ilustración Digital 1,design,intermedio,34,"17,7 h",02/02/2020
+5104,Branding 1  ,Diseño,avanzado,34,"10,5 h",2021-07-07
+5105,Motion Graphics 1,design,intermedio,27,"13,4 h",2021-04-11
+5106,Photoshop Pro 1,design,Avanzado,40,"21,1 h",19/08/2021
+5107,Tipografía 1,diseno,basico,29,"14,7 h",2020-10-04
+5108,Figma para UX 2,diseno,principiante,30,"13,7 h",2019-12-23
+5109,Diseño Gráfico 2,design,Principiante,21,"6,5 h",2019-12-28
+5110,Ilustración Digital 2,diseno,principiante,42,"13,7 h",2020-06-20
+5111,Branding 2,Diseño,intermedio,29,"8,8 h",18/04/2020
+5112,Motion Graphics 2,diseno,basico,26,"11,8 h",09/05/2020
+5113,Photoshop Pro 2,diseno,basico,49,"24,8 h",23/12/2020
+5114,Tipografía 2,Diseño,Intermedio,34,"18,2 h",2020-12-27
+5115,  Figma para UX 3 ,diseno,intermedio,41,"19,8 h",03/12/2020
+5116,DISEÑO GRÁFICO 3,diseno,Principiante,31,"13,7 h",2020-10-13
+5117,Ilustración Digital 3,design,Intermedio,31,"16,0 h",2021-07-06
+5118,Branding 3,design,experto,36,"14,7 h",14/11/2021
+5119,Motion Graphics 3,Diseño,principiante,47,"21,0 h",2020-12-02
+5120,Photoshop Pro 3,design,avanzado,34,"17,4 h",2021-09-04
+5121,Tipografía 3,Diseño,intermedio,32,"17,0 h",2020-10-09
+5122,Figma para UX 4,design,intermedio,35,"14,3 h",27 Sep 2020
+5123,  Diseño Gráfico 4 ,Diseño,intermedio,26,"10,7 h",16/08/2021
+5124,Ilustración Digital 4,diseno,principiante,30,"14,2 h",2 Jan 2022
+5125,  Branding 4 ,diseno,Principiante,36,"19,7 h",20/05/2022
+5126,Motion Graphics 4,diseno,principiante,36,"16,8 h",05/03/2020
+5127,Photoshop Pro 4,Diseño,experto,34,"11,8 h",18/03/2020
+5128,Tipografía 4  ,design,principiante,29,"9,9 h",21 Jul 2021
+5129,Figma para UX 5,diseno,experto,35,"12,3 h",2022-01-29
+5130,Diseño Gráfico 5,design,intermedio,37,"12,1 h",2021-10-10
+5131,Ilustración Digital 5,design,Principiante,29,"12,6 h",2022-02-28
+5132,Branding 5,Diseño,Principiante,43,"19,8 h",19 Jan 2022
+5133,Motion Graphics 5,Diseño,principiante,22,"11,6 h",08/02/2020
+5134,Photoshop Pro 5,design,Avanzado,10,"5,1 h",2021-08-12
+5135,TIPOGRAFÍA 5,Diseño,principiante,34,"11,9 h",2021-02-16
+5136,Figma para UX 6,Diseño,avanzado,22,"7,7 h",2022-05-27
+5137,Diseño Gráfico 6,design,principiante,28,"10,1 h",2021-10-14
+5138,Ilustración Digital 6,Diseño,principiante,37,"14,8 h",02/05/2020
+5139,Branding 6,design,Principiante,22,"10,7 h",16/09/2020
+5140,Motion Graphics 6,design,Principiante,30,"14,0 h",12/08/2020
+5141,Photoshop Pro 6,diseno,intermedio,26,"12,3 h",2022-01-04
+5142,  Tipografía 6 ,design,Principiante,44,"16,8 h",30 Sep 2020
+5143,Figma para UX 7,diseno,Intermedio,36,"14,2 h",10/01/2021
+5144,Diseño Gráfico 7,diseno,principiante,30,"12,2 h",2020-08-12
+5145,Ilustración Digital 7,diseno,intermedio,41,"12,7 h",08/11/2021
+5146,Branding 7,Diseño,intermedio,27,"11,6 h",01/05/2022
+5147,Motion Graphics 7,Diseño,principiante,41,"20,7 h",16/05/2020
+5148,Photoshop Pro 7,Diseño,principiante,25,"10,7 h",08/01/2020
+5149,Tipografía 7,Diseño,Avanzado,48,"18,8 h",2021-04-16
+5150,Figma para UX 8,diseno,avanzado,35,"11,9 h",2020-04-17
+5151,Diseño Gráfico 8,design,Principiante,24,"9,6 h",2021-06-29
+5152,Ilustración Digital 8,design,basico,33,"10,3 h",13/04/2021
+5153,Branding 8,design,Principiante,33,"12,2 h",2021-08-11
+5154,Motion Graphics 8,diseno,Avanzado,30,"12,5 h",2021-10-18
+5155,PHOTOSHOP PRO 8,diseno,intermedio,36,"13,9 h",2021-10-28
+5156,Tipografía 8,design,Principiante,36,"19,8 h",2021-02-15
+5157,Figma para UX 9,Diseño,experto,34,"12,1 h",2020-07-14
+5158,Diseño Gráfico 9,design,basico,46,"23,6 h",2022-01-11
+5159,Ilustración Digital 9,design,Principiante,39,"17,4 h",2021-09-25
+5160,Branding 9,diseno,Intermedio,39,"17,9 h",2021-08-11
+5161,Motion Graphics 9,Diseño,Intermedio,27,"14,7 h",24/12/2021
+5162,Photoshop Pro 9,design,principiante,29,"9,5 h",11 Aug 2021
+5163,Tipografía 9,Diseño,basico,25,"11,5 h",2020-07-10
+5164,Figma para UX 10,design,basico,41,"18,2 h",2020-01-14
+5165,Diseño Gráfico 10,design,Intermedio,42,"15,1 h",2020-06-11
+5166,Ilustración Digital 10,diseno,Principiante,29,"9,5 h",09/10/2021
+5167,Branding 10,diseno,avanzado,24,"10,6 h",2020-09-05
+5168,Motion Graphics 10,design,intermedio,42,"20,8 h",09/09/2021
+5169,Photoshop Pro 10,design,principiante,22,"9,3 h",2020-04-05
+5170,Tipografía 10,diseno,intermedio,22,"8,3 h",2020-09-30
+5171,Figma para UX 11,diseno,Principiante,30,"10,5 h",2022-05-17
+5172,Diseño Gráfico 11,Diseño,Intermedio,32,"16,8 h",6 May 2022
+5173,ILUSTRACIÓN DIGITAL 11,Diseño,intermedio,28,"9,2 h",2021-03-04
+5174,BRANDING 11,diseno,principiante,36,"19,3 h",2020-05-04
+5175,Motion Graphics 11,diseno,basico,28,"9,1 h",2021-06-26
+5176,Photoshop Pro 11,diseno,avanzado,34,"16,9 h",05/03/2022
+5177,Tipografía 11,diseno,experto,18,"7,4 h",2020-10-08
+5178,Figma para UX 12,design,intermedio,31,"10,4 h",2021-04-04
+5179,Diseño Gráfico 12,design,experto,33,"11,3 h",2021-08-11
+5180,Ilustración Digital 12,Diseño,Principiante,23,"12,5 h",2022-01-08
+5181,Branding 12,design,intermedio,34,"17,0 h",2019-12-20
+5182,Motion Graphics 12,diseno,basico,35,"11,6 h",2022-01-31
+5183,Photoshop Pro 12,diseno,intermedio,29,"10,6 h",06/09/2021
+5184,Tipografía 12,design,Avanzado,37,"16,4 h",2021-07-25
+5185,Figma para UX 13,Diseño,Intermedio,35,"16,6 h",2020-11-21
+5186,Diseño Gráfico 13,design,intermedio,35,"12,7 h",20/06/2020
+5187,Ilustración Digital 13,design,intermedio,34,"13,3 h",2022-01-15
+5188,Branding 13,diseno,Principiante,47,"19,4 h",2021-08-03
+5189,Motion Graphics 13,design,Avanzado,22,"10,3 h",31/10/2021
+5190,Photoshop Pro 13,design,principiante,33,"13,5 h",2020-02-15
+5191,Tipografía 13,diseno,Intermedio,29,"15,2 h",23 Feb 2022
+5192,Figma para UX 14  ,diseno,Principiante,44,"19,4 h",26/09/2020
+5193,Diseño Gráfico 14,Diseño,Principiante,27,"14,8 h",2020-10-26
+5194,  Ilustración Digital 14 ,design,principiante,28,"9,6 h",10/03/2020
+5195,Branding 14,design,Principiante,23,"12,3 h",31 Oct 2021
+5196,Motion Graphics 14,diseno,basico,35,"16,1 h",08/03/2021
+5197,Photoshop Pro 14,Diseño,Principiante,32,"11,1 h",31/10/2021
+5198,Tipografía 14,diseno,intermedio,38,"20,7 h",03/12/2020
+5199,Figma para UX 15,diseno,principiante,41,"21,4 h",20/09/2020
+5200,Diseño Gráfico 15  ,Diseño,Avanzado,35,"15,1 h",19/05/2021
+5201,SEO desde Cero 1,mkt,Intermedio,34,"10,3 h",7 Dec 2021
+5202,Publicidad en Meta 1,Marketing digital,avanzado,35,"16,9 h",2022-02-23
+5203,Email Marketing 1,mkt,Intermedio,27,"10,1 h",2020-03-09
+5204,Analítica Web 1,marketing,principiante,35,"17,5 h",2021-07-10
+5205,COPYWRITING 1,mkt,basico,31,"13,9 h",2021-03-31
+5206,Growth Hacking 1,Marketing digital,basico,28,"14,3 h",2021-05-07
+5207,Marketing de Contenidos 1,mkt,Principiante,24,"9,3 h",15/03/2021
+5208,SEO desde Cero 2,Marketing digital,Intermedio,27,"14,7 h",04/08/2020
+5209,Publicidad en Meta 2,mkt,principiante,22,"9,2 h",2020-10-19
+5210,Email Marketing 2,Marketing digital,Intermedio,38,"12,2 h",1 Nov 2020
+5211,Analítica Web 2,mkt,avanzado,26,"8,8 h",2020-01-03
+5212,Copywriting 2,mkt,avanzado,16,"6,9 h",02/09/2020
+5213,Growth Hacking 2,Marketing digital,experto,33,"17,4 h",13/06/2020
+5214,Marketing de Contenidos 2,marketing,intermedio,34,"16,6 h",2021-05-30
+5215,SEO desde Cero 3,marketing,basico,29,"11,2 h",16/07/2021
+5216,Publicidad en Meta 3,marketing,Intermedio,25,"7,9 h",26/12/2021
+5217,Email Marketing 3,marketing,intermedio,17,"8,0 h",10/02/2020
+5218,Analítica Web 3,mkt,avanzado,33,"13,0 h",2021-11-26
+5219,Copywriting 3,mkt,Intermedio,20,"7,0 h",30/05/2021
+5220,Growth Hacking 3,marketing,experto,29,"9,6 h",01/06/2021
+5221,Marketing de Contenidos 3,marketing,Intermedio,22,"12,1 h",2021-11-04
+5222,SEO desde Cero 4,marketing,intermedio,39,"17,4 h",6 Jul 2021
+5223,Publicidad en Meta 4,mkt,intermedio,-1,"21,1 h",02/05/2022
+5224,Email Marketing 4,Marketing digital,intermedio,22,"10,3 h",2020-06-23
+5225,Analítica Web 4,Marketing digital,Avanzado,24,"7,8 h",2020-01-23
+5226,Copywriting 4,mkt,Intermedio,51,"16,6 h",2020-11-15
+5227,Growth Hacking 4,Marketing digital,Principiante,35,"11,3 h",2021-02-02
+5228,Marketing de Contenidos 4,marketing,basico,35,"10,8 h",2020-07-25
+5229,SEO desde Cero 5,Marketing digital,basico,13,"6,1 h",28/01/2021
+5230,Publicidad en Meta 5,mkt,basico,35,"11,1 h",2021-03-22
+5231,Email Marketing 5,Marketing digital,experto,29,"13,2 h",2020-01-06
+5232,Analítica Web 5,mkt,avanzado,28,"12,8 h",2022-04-11
+5233,Copywriting 5,mkt,Intermedio,40,"15,4 h",29/03/2022
+5234,Growth Hacking 5,marketing,Intermedio,29,"9,2 h",2021-08-18
+5235,Marketing de Contenidos 5,marketing,principiante,29,"12,2 h",2022-01-11
+5236,SEO desde Cero 6,mkt,Intermedio,32,"16,4 h",21/07/2020
+5237,Publicidad en Meta 6,mkt,intermedio,29,"14,8 h",2021-04-20
+5238,Email Marketing 6,marketing,principiante,34,"16,7 h",17/03/2021
+5239,Analítica Web 6,mkt,Intermedio,39,"20,4 h",31/05/2022
+5240,Copywriting 6,marketing,principiante,21,"11,1 h",30/07/2020
+5241,Growth Hacking 6,mkt,Avanzado,9,"4,3 h",16/05/2020
+5242,Marketing de Contenidos 6,Marketing digital,Principiante,29,"14,4 h",2021-03-08
+5243,SEO desde Cero 7,mkt,basico,29,"13,1 h",2020-08-05
+5244,Publicidad en Meta 7,Marketing digital,principiante,26,"-2,0 h",27/02/2021
+5245,Email Marketing 7,Marketing digital,basico,40,"12,4 h",2021-04-04
+5246,Analítica Web 7,mkt,intermedio,41,"14,3 h",2021-05-27
+5247,Copywriting 7,marketing,Avanzado,30,"12,4 h",2021-09-04
+5248,Growth Hacking 7,Marketing digital,Principiante,28,"10,1 h",24 Mar 2021
+5249,Marketing de Contenidos 7,mkt,Intermedio,26,"12,7 h",02/04/2020
+5250,SEO desde Cero 8,Marketing digital,intermedio,27,"14,5 h",2021-09-15
+5251,  Publicidad en Meta 8 ,marketing,avanzado,45,"20,6 h",2021-04-25
+5252,Email Marketing 8,Marketing digital,Avanzado,26,"11,2 h",10 Dec 2021
+5253,Analítica Web 8,marketing,avanzado,36,"16,6 h",2020-03-19
+5254,Copywriting 8,marketing,Avanzado,34,"11,1 h",18/12/2020
+5255,Growth Hacking 8,marketing,avanzado,18,"6,0 h",1 Jan 2022
+5256,Marketing de Contenidos 8,marketing,intermedio,27,"13,7 h",2021-04-21
+5257,SEO desde Cero 9,mkt,intermedio,33,"15,6 h",2022-01-15
+5258,Publicidad en Meta 9,mkt,Principiante,41,"17,1 h",2021-10-22
+5259,Email Marketing 9,mkt,principiante,29,"11,9 h",19/02/2022
+5260,Analítica Web 9,Marketing digital,Intermedio,20,"9,7 h",2020-07-29
+5261,Copywriting 9,marketing,avanzado,31,"10,0 h",01/06/2020
+5262,Growth Hacking 9,mkt,basico,27,"12,4 h",30 Nov 2021
+5263,Marketing de Contenidos 9,marketing,avanzado,44,"15,8 h",2022-05-10
+5264,SEO desde Cero 10,Marketing digital,principiante,17,"8,5 h",25/08/2020
+5265,  Publicidad en Meta 10 ,Marketing digital,Intermedio,39,"14,9 h",2020-01-12
+5266,Email Marketing 10,mkt,Intermedio,23,"11,6 h",10/11/2020
+5267,Analítica Web 10,mkt,principiante,23,"10,7 h",29/05/2022
+5268,Copywriting 10,Marketing digital,principiante,41,"12,7 h",10 Feb 2021
+5269,  Growth Hacking 10 ,mkt,Principiante,35,"10,9 h",2021-05-24
+5270,Marketing de Contenidos 10,marketing,principiante,32,"10,9 h",29/05/2021
+5271,SEO desde Cero 11,marketing,basico,28,"11,1 h",14/11/2020
+5272,Publicidad en Meta 11,mkt,basico,29,"12,9 h",05/01/2021
+5273,Email Marketing 11  ,mkt,avanzado,28,"10,5 h",09/09/2021
+5274,Analítica Web 11,Marketing digital,basico,29,"9,3 h",2020-08-04
+5275,Copywriting 11,Marketing digital,Avanzado,39,"17,0 h",2022-05-12
+5276,Growth Hacking 11,Marketing digital,principiante,25,"8,2 h",01/10/2020
+5277,Marketing de Contenidos 11,marketing,Intermedio,24,"10,1 h",7 Oct 2020
+5278,SEO desde Cero 12,Marketing digital,Principiante,23,"9,6 h",7 Feb 2021
+5279,Publicidad en Meta 12,mkt,basico,39,"16,9 h",08/04/2022
+5280,Email Marketing 12,Marketing digital,Avanzado,32,"13,4 h",28/05/2022
+5281,Analítica Web 12,marketing,intermedio,27,"11,9 h",12 Feb 2020
+5282,Copywriting 12,Marketing digital,avanzado,29,"12,7 h",22/05/2020
+5283,Growth Hacking 12,Marketing digital,basico,37,"13,7 h",2020-09-28
+5284,Marketing de Contenidos 12,mkt,Principiante,21,"7,8 h",04/04/2020
+5285,SEO desde Cero 13,marketing,Intermedio,26,"8,1 h",20/01/2022
+5286,Publicidad en Meta 13,Marketing digital,basico,25,"8,2 h",18 Feb 2021
+5287,Email Marketing 13,Marketing digital,Principiante,34,"13,1 h",2020-06-17
+5288,Analítica Web 13,mkt,intermedio,35,"18,7 h",19 Mar 2022
+5289,Copywriting 13,Marketing digital,Intermedio,17,"5,3 h",01/02/2021
+5290,Growth Hacking 13,marketing,experto,24,"12,2 h",2021-04-14
+5291,Marketing de Contenidos 13,Marketing digital,Intermedio,24,"12,2 h",2021-05-09
+5292,SEO desde Cero 14,marketing,experto,32,"16,5 h",2021-10-31
+5293,Publicidad en Meta 14,Marketing digital,basico,28,"13,6 h",10 Jul 2021
+5294,EMAIL MARKETING 14,marketing,Avanzado,21,"9,7 h",21/09/2020
+5295,ANALÍTICA WEB 14,marketing,basico,24,"10,8 h",2020-02-05
+5296,Copywriting 14,mkt,Avanzado,27,"9,1 h",2021-11-01
+5297,Growth Hacking 14,mkt,Intermedio,25,"13,4 h",2021-08-04
+5298,Marketing de Contenidos 14,Marketing digital,intermedio,28,"10,9 h",2021-02-19
+5299,SEO desde Cero 15,mkt,Principiante,27,"10,5 h",15/04/2021
+5300,Publicidad en Meta 15,marketing,Intermedio,26,"8,6 h",2022-02-07
+5301,Excel Avanzado 1,ofimatica,intermedio,28,"9,8 h",29 Jul 2020
+5302,Word Profesional 1,office,basico,23,"9,5 h",2022-02-04
+5303,PowerPoint Efectivo 1,ofimatica,basico,20,"8,9 h",2022-05-16
+5304,  Google Sheets 1 ,ofimatica,Avanzado,30,"14,8 h",2021-07-03
+5305,Outlook y Correo 1,ofimatica,Avanzado,26,"8,9 h",08/01/2021
+5306,Notion Productividad 1,office,principiante,24,"10,1 h",31/08/2020
+5307,Excel Avanzado 2,office,Principiante,13,"4,5 h",30/07/2020
+5308,Word Profesional 2,ofimatica,Intermedio,20,"7,6 h",2021-10-30
+5309,PowerPoint Efectivo 2,ofimatica,basico,22,"10,5 h",2021-10-27
+5310,Google Sheets 2,ofimatica,experto,8,"4,0 h",26/05/2022
+5311,Outlook y Correo 2,ofimatica,Principiante,31,"16,3 h",2022-02-11
+5312,Notion Productividad 2,Ofimática,Principiante,17,"6,5 h",14/03/2021
+5313,Excel Avanzado 3,ofimatica,intermedio,28,"11,4 h",2022-03-06
+5314,Word Profesional 3,office,avanzado,20,"8,4 h",2020-08-28
+5315,PowerPoint Efectivo 3,Ofimática,principiante,26,"9,3 h",23/04/2022
+5316,Google Sheets 3,office,Intermedio,13,"4,7 h",6 Apr 2020
+5317,Outlook y Correo 3,office,principiante,18,"9,3 h",15 May 2021
+5318,Notion Productividad 3,office,Intermedio,27,"9,3 h",2021-08-24
+5319,Excel Avanzado 4,Ofimática,Intermedio,34,"15,9 h",2020-10-21
+5320,Word Profesional 4,ofimatica,experto,15,"6,2 h",2021-06-15
+5321,PowerPoint Efectivo 4,office,basico,21,"7,3 h",30/03/2022
+5322,GOOGLE SHEETS 4,office,Principiante,18,"8,0 h",16 Jun 2020
+5323,Outlook y Correo 4,Ofimática,intermedio,12,"5,4 h",2021-11-28
+5324,Notion Productividad 4,Ofimática,experto,15,"6,3 h",31/05/2022
+5325,Excel Avanzado 5,ofimatica,basico,22,"10,0 h",18 May 2020
+5326,Word Profesional 5  ,office,Principiante,11,"4,5 h",11/06/2020
+5327,PowerPoint Efectivo 5,Ofimática,Avanzado,28,"15,3 h",19/08/2020
+5328,Google Sheets 5,office,Principiante,26,"9,8 h",01/10/2020
+5329,Outlook y Correo 5,ofimatica,basico,17,"6,2 h",11/03/2022
+5330,Notion Productividad 5,Ofimática,basico,34,"17,0 h",29/06/2021
+5331,Excel Avanzado 6,ofimatica,Intermedio,19,"9,2 h",2020-07-20
+5332,Word Profesional 6,Ofimática,Principiante,17,"9,0 h",2022-03-07
+5333,PowerPoint Efectivo 6,office,Principiante,14,"5,3 h",28 May 2022
+5334,Google Sheets 6,Ofimática,Intermedio,28,"9,3 h",2021-08-23
+5335,Outlook y Correo 6,ofimatica,Principiante,15,"7,5 h",15/03/2021
+5336,Notion Productividad 6,office,principiante,22,"7,6 h",26/02/2022
+5337,Excel Avanzado 7  ,office,Avanzado,19,"6,6 h",09/11/2021
+5338,Word Profesional 7,ofimatica,basico,35,"16,0 h",2020-09-14
+5339,PowerPoint Efectivo 7,office,Intermedio,25,"12,8 h",28/06/2020
+5340,Google Sheets 7,office,Intermedio,14,"5,6 h",26/03/2022
+5341,OUTLOOK Y CORREO 7,ofimatica,intermedio,23,"12,5 h",2021-08-17
+5342,Notion Productividad 7,Ofimática,Intermedio,23,"11,5 h",17/02/2020
+5343,Excel Avanzado 8,Ofimática,basico,19,"8,8 h",24/11/2020
+5344,Word Profesional 8,office,avanzado,32,"13,2 h",22/12/2019
+5345,PowerPoint Efectivo 8,office,basico,25,"12,6 h",2020-03-12
+5346,Google Sheets 8,ofimatica,avanzado,28,"8,6 h",24/08/2020
+5347,Outlook y Correo 8,Ofimática,Avanzado,18,"7,8 h",2020-12-11
+5348,Notion Productividad 8,Ofimática,Principiante,14,"4,4 h",2021-07-30
+5349,Excel Avanzado 9,ofimatica,intermedio,18,"8,9 h",27 Dec 2019
+5350,Word Profesional 9,office,principiante,13,"7,1 h",20/08/2021
+5351,PowerPoint Efectivo 9,Ofimática,principiante,28,"15,4 h",2020-09-26
+5352,Google Sheets 9,office,basico,20,"6,9 h",06/01/2020
+5353,Outlook y Correo 9,ofimatica,principiante,38,"17,4 h",2022-01-07
+5354,Notion Productividad 9,office,Principiante,26,"10,1 h",10/05/2021
+5355,Excel Avanzado 10,ofimatica,experto,19,"7,4 h",2021-06-30
+5356,  Word Profesional 10 ,office,experto,26,"10,8 h",2020-04-10
+5357,PowerPoint Efectivo 10,ofimatica,principiante,10,"3,9 h",2021-11-19
+5358,Google Sheets 10,ofimatica,experto,30,"9,4 h",14 Jan 2020
+5359,Outlook y Correo 10,ofimatica,principiante,27,"12,1 h",2021-04-04
+5360,Notion Productividad 10,office,Principiante,18,"8,2 h",2020-11-22
+5361,Excel Avanzado 11,office,Principiante,11,"4,9 h",2021-11-08
+5362,Word Profesional 11,ofimatica,intermedio,22,"10,7 h",22/11/2020
+5363,PowerPoint Efectivo 11,ofimatica,principiante,11,"4,6 h",2020-11-07
+5364,Google Sheets 11,ofimatica,Intermedio,22,"7,2 h",2021-03-13
+5365,Outlook y Correo 11,Ofimática,Intermedio,16,"5,1 h",2020-09-27
+5366,Notion Productividad 11,Ofimática,Intermedio,39,"12,8 h",26/10/2021
+5367,Excel Avanzado 12,Ofimática,intermedio,22,"11,4 h",2020-11-15
+5368,Word Profesional 12,Ofimática,intermedio,25,"8,7 h",2020-03-14
+5369,PowerPoint Efectivo 12,Ofimática,Principiante,23,"11,1 h",06/03/2020
+5370,Google Sheets 12,ofimatica,experto,36,"12,8 h",22/05/2022
+5371,Outlook y Correo 12,office,Principiante,18,"8,1 h",2021-10-27
+5372,Notion Productividad 12,office,Principiante,24,"10,0 h",19/11/2021
+5373,Excel Avanzado 13,office,intermedio,26,"14,1 h",27 Dec 2019
+5374,Word Profesional 13,Ofimática,Intermedio,42,"16,2 h",1 Oct 2020
+5375,PowerPoint Efectivo 13,ofimatica,Principiante,16,"5,5 h",19/01/2022
+5376,Google Sheets 13,office,basico,22,"10,7 h",2022-05-01
+5377,Outlook y Correo 13,ofimatica,experto,10,"3,8 h",2021-10-18
+5378,Notion Productividad 13,ofimatica,basico,19,"8,2 h",2020-07-20
+5379,Excel Avanzado 14,office,basico,25,"9,5 h",2020-08-06
+5380,Word Profesional 14,ofimatica,Intermedio,35,"12,2 h",14 Apr 2020
+5381,PowerPoint Efectivo 14,Ofimática,principiante,26,"12,3 h",09/06/2021
+5382,Google Sheets 14,office,Intermedio,29,"12,3 h",03/03/2020
+5383,Outlook y Correo 14,Ofimática,basico,25,"7,8 h",2021-03-28
+5384,Notion Productividad 14,ofimatica,Intermedio,19,"10,0 h",2022-05-04
+5385,Excel Avanzado 15,ofimatica,basico,33,"17,2 h",2020-02-15
+5386,Word Profesional 15,Ofimática,basico,26,"0,0 h",20/04/2021
+5387,PowerPoint Efectivo 15,office,intermedio,25,"8,5 h",21/01/2020
+5388,  Google Sheets 15 ,ofimatica,principiante,31,"15,9 h",2020-06-19
+5389,Outlook y Correo 15,ofimatica,principiante,18,"8,0 h",4 Apr 2022
+5390,Notion Productividad 15,office,avanzado,16,"5,8 h",01/11/2020
+5391,Excel Avanzado 16,office,basico,31,"12,1 h",25/03/2022
+5392,Word Profesional 16,Ofimática,intermedio,12,"5,1 h",2021-06-21
+5393,PowerPoint Efectivo 16,Ofimática,basico,21,"6,3 h",2021-06-16
+5394,Google Sheets 16,Ofimática,experto,20,"10,1 h",1 Dec 2020
+5395,Outlook y Correo 16,ofimatica,Intermedio,20,"10,4 h",13 Feb 2021
+5396,Notion Productividad 16,Ofimática,Intermedio,10,"4,9 h",28/01/2022
+5397,Excel Avanzado 17,ofimatica,principiante,31,"10,0 h",2022-04-17
+5398,  Word Profesional 17 ,Ofimática,intermedio,24,"13,0 h",2021-04-01
+5399,PowerPoint Efectivo 17,office,intermedio,19,"7,3 h",26/06/2021
+5400,Google Sheets 17,ofimatica,basico,11,"4,8 h",04/08/2020
+5401,Inglés B1 1,Idiomas,Avanzado,27,"8,6 h",25 Dec 2019
+5402,Inglés B2 1,languages,principiante,35,"10,8 h",25/01/2020
+5403,Francés Básico 1,languages,Principiante,44,"23,6 h",27/12/2021
+5404,Alemán Inicial 1,idiomas,Intermedio,34,"17,0 h",03/08/2020
+5405,Italiano Turista 1,Idiomas,Intermedio,45,"19,5 h",2020-06-11
+5406,Inglés de Negocios 1,Idiomas,Intermedio,28,"14,2 h",09/01/2020
+5407,Portugués 1,idiomas,intermedio,28,"14,6 h",2021-06-20
+5408,Inglés B1 2,Idiomas,intermedio,32,"12,8 h",2021-10-07
+5409,Inglés B2 2,languages,Principiante,20,"8,8 h",2021-01-23
+5410,Francés Básico 2  ,idiomas,avanzado,40,"12,2 h",12/03/2021
+5411,Alemán Inicial 2,languages,intermedio,59,"18,6 h",2021-04-14
+5412,Italiano Turista 2,idiomas,Principiante,42,"21,6 h",27/02/2021
+5413,Inglés de Negocios 2,idiomas,intermedio,38,"19,1 h",13/02/2021
+5414,Portugués 2,Idiomas,intermedio,22,"9,7 h",2020-04-01
+5415,  Inglés B1 3 ,Idiomas,Intermedio,39,"15,8 h",2021-01-10
+5416,  Inglés B2 3 ,idiomas,principiante,35,"17,0 h",30/12/2021
+5417,Francés Básico 3,idiomas,Intermedio,42,"16,7 h",2021-03-13
+5418,  Alemán Inicial 3 ,idiomas,Principiante,41,"21,1 h",23/05/2022
+5419,Italiano Turista 3,Idiomas,intermedio,47,"24,8 h",2021-10-28
+5420,Inglés de Negocios 3,idiomas,principiante,26,"0,0 h",25/05/2020
+5421,Portugués 3,Idiomas,Intermedio,41,"17,6 h",2020-09-23
+5422,Inglés B1 4,idiomas,principiante,38,"16,8 h",2021-03-10
+5423,Inglés B2 4,idiomas,intermedio,35,"18,5 h",2020-09-18
+5424,Francés Básico 4,idiomas,avanzado,40,"17,5 h",2020-12-20
+5425,Alemán Inicial 4,Idiomas,Intermedio,27,"14,2 h",2021-02-25
+5426,Italiano Turista 4,Idiomas,intermedio,34,"13,5 h",2020-07-05
+5427,Inglés de Negocios 4,Idiomas,intermedio,39,"14,1 h",30/09/2021
+5428,Portugués 4,languages,Principiante,52,"22,1 h",01/03/2021
+5429,Inglés B1 5,Idiomas,experto,41,"13,4 h",2022-05-10
+5430,Inglés B2 5,Idiomas,intermedio,41,"12,6 h",31/10/2020
+5431,Francés Básico 5,Idiomas,Intermedio,46,"23,3 h",22 Aug 2021
+5432,Alemán Inicial 5,languages,avanzado,34,"17,9 h",2021-03-08
+5433,Italiano Turista 5,Idiomas,Intermedio,41,"12,9 h",2021-04-10
+5434,Inglés de Negocios 5,idiomas,Avanzado,42,"17,0 h",07/10/2021
+5435,Portugués 5  ,languages,basico,42,"-1,5 h",2020-02-21
+5436,Inglés B1 6,Idiomas,avanzado,36,"14,3 h",20/03/2022
+5437,Inglés B2 6,idiomas,intermedio,37,"19,5 h",5 Dec 2020
+5438,Francés Básico 6,idiomas,Avanzado,32,"14,0 h",31 Dec 2021
+5439,Alemán Inicial 6,languages,intermedio,42,"21,8 h",05/01/2022
+5440,Italiano Turista 6,idiomas,intermedio,44,"14,9 h",27 Jan 2022
+5441,Inglés de Negocios 6,idiomas,Avanzado,32,"11,5 h",18 May 2022
+5442,Portugués 6,languages,basico,36,"16,1 h",09/03/2020
+5443,Inglés B1 7,idiomas,experto,45,"19,4 h",21/02/2022
+5444,Inglés B2 7,Idiomas,Intermedio,48,"22,5 h",27/10/2020
+5445,Francés Básico 7,languages,basico,54,"23,8 h",03/11/2021
+5446,Alemán Inicial 7,languages,Avanzado,38,"12,7 h",29/10/2020
+5447,Italiano Turista 7,Idiomas,Intermedio,48,"17,3 h",26 Mar 2021
+5448,Inglés de Negocios 7,Idiomas,Intermedio,25,"8,6 h",09/09/2020
+5449,Portugués 7,languages,Intermedio,56,"22,6 h",2020-12-17
+5450,Inglés B1 8,idiomas,intermedio,41,"21,6 h",24/01/2021
+5451,Inglés B2 8,languages,Principiante,34,"10,8 h",2022-01-24
+5452,Francés Básico 8,languages,avanzado,27,"12,3 h",21 Mar 2020
+5453,Alemán Inicial 8,idiomas,principiante,47,"18,7 h",2021-07-22
+5454,Italiano Turista 8,idiomas,principiante,44,"13,6 h",21/12/2019
+5455,Inglés de Negocios 8,Idiomas,experto,42,"13,3 h",7 Apr 2021
+5456,Portugués 8,languages,Principiante,41,"16,6 h",17/12/2019
+5457,INGLÉS B1 9,idiomas,experto,37,"11,9 h",29/10/2020
+5458,Inglés B2 9,Idiomas,avanzado,49,"22,7 h",17 Aug 2021
+5459,Francés Básico 9,idiomas,Principiante,36,"16,9 h",05/01/2020
+5460,Alemán Inicial 9,Idiomas,intermedio,55,"18,2 h",04/06/2020
+5461,Italiano Turista 9,Idiomas,principiante,46,"15,7 h",02/08/2021
+5462,Inglés de Negocios 9,idiomas,Principiante,45,"23,2 h",11 Apr 2020
+5463,Portugués 9,languages,experto,28,"9,8 h",04/02/2020
+5464,Inglés B1 10,idiomas,avanzado,37,"19,9 h",09/02/2022
+5465,Inglés B2 10,Idiomas,Intermedio,55,"18,3 h",10/05/2022
+5466,Francés Básico 10  ,idiomas,basico,30,"14,3 h",27 Dec 2020
+5467,Alemán Inicial 10,idiomas,intermedio,46,"22,3 h",7 Nov 2020
+5468,Italiano Turista 10,Idiomas,principiante,34,"16,9 h",2022-03-19
+5469,Inglés de Negocios 10,idiomas,basico,40,"13,1 h",24 Mar 2021
+5470,Portugués 10,Idiomas,Intermedio,39,"16,5 h",26 Mar 2020
+5471,Inglés B1 11  ,Idiomas,principiante,45,"13,5 h",2021-10-12
+5472,INGLÉS B2 11,idiomas,Intermedio,42,"15,3 h",01/03/2020
+5473,Francés Básico 11,Idiomas,intermedio,38,"14,3 h",2020-04-18
+5474,Alemán Inicial 11,Idiomas,avanzado,35,"11,8 h",31/05/2020
+5475,Italiano Turista 11,idiomas,Principiante,33,"13,9 h",28 Jun 2021
+5476,Inglés de Negocios 11,idiomas,basico,32,"12,7 h",2021-10-22
+5477,Portugués 11,languages,intermedio,50,"26,6 h",2020-01-10
+5478,Inglés B1 12,idiomas,avanzado,40,"16,6 h",22 Sep 2021
+5479,Inglés B2 12,Idiomas,principiante,39,"14,0 h",2021-10-25
+5480,Francés Básico 12  ,idiomas,Principiante,41,"18,9 h",2021-10-09
+5481,Alemán Inicial 12,Idiomas,Intermedio,50,"21,8 h",2022-01-12
+5482,Italiano Turista 12,languages,avanzado,43,"19,8 h",2021-01-14
+5483,Inglés de Negocios 12,Idiomas,intermedio,0,"19,0 h",17/04/2022
+5484,Portugués 12,languages,experto,37,"19,0 h",1 Apr 2020
+5485,Inglés B1 13,Idiomas,Intermedio,32,"16,2 h",17 Mar 2020
+5486,Inglés B2 13  ,Idiomas,Intermedio,43,"16,9 h",2020-03-26
+5487,Francés Básico 13,idiomas,intermedio,42,"19,1 h",26/01/2021
+5488,Alemán Inicial 13,languages,basico,37,"15,7 h",2022-03-18
+5489,Italiano Turista 13,Idiomas,principiante,49,"17,0 h",2020-05-05
+5490,Inglés de Negocios 13,languages,principiante,42,"16,6 h",25 May 2020
+5491,Portugués 13,languages,Intermedio,40,"15,5 h",2022-02-01
+5492,Inglés B1 14,Idiomas,Avanzado,54,"16,6 h",23/08/2021
+5493,Inglés B2 14,idiomas,principiante,33,"16,6 h",2021-10-22
+5494,Francés Básico 14,languages,principiante,34,"11,7 h",2020-09-08
+5495,  Alemán Inicial 14 ,languages,Intermedio,45,"15,9 h",2021-10-26
+5496,Italiano Turista 14  ,idiomas,principiante,42,"13,1 h",01/08/2021
+5497,Inglés de Negocios 14,languages,avanzado,30,"13,7 h",2022-03-08
+5498,Portugués 14,idiomas,basico,33,"16,0 h",2021-02-24
+5499,Inglés B1 15,idiomas,Intermedio,49,"19,6 h",16 Sep 2020
+5500,  Inglés B2 15 ,languages,Avanzado,30,"16,3 h",16/09/2020
+5501,Finanzas Personales 1,business,intermedio,37,"19,7 h",14 Jun 2021
+5502,Emprender 1,business,principiante,31,"11,6 h",2022-04-29
+5503,Gestión de Equipos 1,Negocios,intermedio,23,"9,5 h",2022-02-26
+5504,Ventas B2B 1,business,basico,30,"15,9 h",2021-10-12
+5505,Product Management 1,negocios,experto,20,"7,1 h",12/06/2021
+5506,Negociación 1,negocios,basico,47,"22,1 h",22/06/2020
+5507,Contabilidad Básica 1,Negocios,Intermedio,19,"9,4 h",31/10/2021
+5508,Finanzas Personales 2,Negocios,experto,14,"4,8 h",2019-12-17
+5509,Emprender 2,negocios,basico,23,"9,2 h",2020-02-21
+5510,Gestión de Equipos 2,negocios,Intermedio,43,"14,1 h",25/05/2020
+5511,Ventas B2B 2,negocios,principiante,28,"11,9 h",2022-03-23
+5512,Product Management 2,business,avanzado,19,"7,9 h",2021-03-29
+5513,Negociación 2,negocios,principiante,42,"19,9 h",29 Nov 2020
+5514,Contabilidad Básica 2,Negocios,intermedio,26,"11,8 h",2020-05-20
+5515,Finanzas Personales 3,business,principiante,35,"15,0 h",25 Jan 2022
+5516,Emprender 3,negocios,intermedio,27,"13,2 h",2022-04-19
+5517,Gestión de Equipos 3,Negocios,avanzado,18,"8,6 h",11/03/2020
+5518,Ventas B2B 3,business,basico,27,"8,3 h",2020-11-18
+5519,Product Management 3,Negocios,principiante,32,"16,0 h",2021-02-27
+5520,Negociación 3,business,basico,33,"12,9 h",10/03/2021
+5521,Contabilidad Básica 3,business,Intermedio,13,"6,4 h",20/12/2020
+5522,Finanzas Personales 4,Negocios,basico,25,"8,2 h",16/06/2021
+5523,Emprender 4,Negocios,basico,15,"6,6 h",21/05/2022
+5524,Gestión de Equipos 4,business,basico,32,"13,7 h",2020-03-07
+5525,Ventas B2B 4,business,Intermedio,21,"11,0 h",2020-03-30
+5526,Product Management 4,negocios,Principiante,25,"7,6 h",16/05/2021
+5527,Negociación 4,negocios,intermedio,19,"6,5 h",06/07/2020
+5528,Contabilidad Básica 4,business,principiante,22,"6,7 h",2021-11-11
+5529,Finanzas Personales 5,business,Intermedio,28,"9,5 h",2021-05-05
+5530,Emprender 5,negocios,intermedio,27,"12,6 h",2020-12-02
+5531,Gestión de Equipos 5,business,basico,22,"9,6 h",2021-10-03
+5532,Ventas B2B 5,negocios,principiante,28,"9,9 h",2020-05-14
+5533,Product Management 5,Negocios,basico,28,"12,1 h",17/08/2020
+5534,Negociación 5,Negocios,basico,18,"8,7 h",2020-05-17
+5535,Contabilidad Básica 5,business,intermedio,33,"13,6 h",2021-10-19
+5536,FINANZAS PERSONALES 6,negocios,Intermedio,34,"18,5 h",2021-03-06
+5537,Emprender 6,business,basico,17,"8,1 h",07/11/2020
+5538,Gestión de Equipos 6,business,Intermedio,38,"16,9 h",2020-09-07
+5539,  Ventas B2B 6 ,business,Intermedio,25,"7,6 h",2020-03-26
+5540,Product Management 6,Negocios,Intermedio,38,"18,1 h",14/12/2019
+5541,Negociación 6,Negocios,Avanzado,27,"8,4 h",2022-01-09
+5542,Contabilidad Básica 6,business,Intermedio,24,"9,1 h",04/06/2021
+5543,Finanzas Personales 7,negocios,Avanzado,42,"17,0 h",2021-02-01
+5544,Emprender 7,negocios,principiante,35,"17,4 h",2020-04-21
+5545,Gestión de Equipos 7  ,Negocios,Intermedio,22,"10,2 h",2020-04-25
+5546,Ventas B2B 7,negocios,avanzado,34,"17,1 h",29/12/2020
+5547,  Product Management 7 ,business,Principiante,33,"12,9 h",18 Feb 2022
+5548,Negociación 7,Negocios,intermedio,36,"15,5 h",2021-08-12
+5549,Contabilidad Básica 7,negocios,intermedio,37,"13,5 h",2020-08-18
+5550,Finanzas Personales 8,negocios,Principiante,20,"10,5 h",2020-05-21
+5551,Emprender 8,Negocios,Avanzado,25,"13,2 h",13/11/2021
+5552,Gestión de Equipos 8,Negocios,basico,23,"10,3 h",29/10/2021
+5553,Ventas B2B 8,business,Principiante,33,"14,5 h",17/03/2020
+5554,Product Management 8,Negocios,avanzado,28,"9,7 h",2021-03-25
+5555,Negociación 8,Negocios,basico,35,"14,8 h",2021-09-30
+5556,Contabilidad Básica 8,Negocios,basico,24,"10,3 h",2022-04-25
+5557,Finanzas Personales 9,business,Principiante,21,"9,0 h",28/01/2021
+5558,  Emprender 9 ,Negocios,avanzado,28,"11,5 h",03/09/2021
+5559,Gestión de Equipos 9,Negocios,intermedio,26,"10,3 h",2020-08-04
+5560,Ventas B2B 9,business,principiante,34,"11,7 h",23/06/2020
+5561,Product Management 9,negocios,basico,38,"17,1 h",2020-06-23
+5562,Negociación 9,business,basico,35,"18,3 h",5 Apr 2020
+5563,Contabilidad Básica 9,business,experto,21,"8,0 h",24/06/2021
+5564,Finanzas Personales 10,Negocios,principiante,28,"10,4 h",21/06/2020
+5565,Emprender 10,business,Intermedio,30,"13,8 h",17 Oct 2020
+5566,Gestión de Equipos 10,business,Intermedio,14,"6,4 h",10/06/2020
+5567,Ventas B2B 10,Negocios,Intermedio,40,"21,9 h",25/04/2020
+5568,Product Management 10,negocios,Principiante,31,"9,6 h",2020-09-28
+5569,Negociación 10,business,principiante,43,"15,8 h",02/09/2021
+5570,Contabilidad Básica 10,negocios,Avanzado,19,"7,5 h",24/07/2020
+5571,Finanzas Personales 11,business,principiante,48,"15,3 h",09/02/2020
+5572,Emprender 11,negocios,avanzado,0,"6,5 h",03/12/2020
+5573,Gestión de Equipos 11,Negocios,principiante,29,"10,2 h",2021-10-14
+5574,Ventas B2B 11,business,avanzado,33,"12,3 h",01/11/2021
+5575,Product Management 11,negocios,principiante,15,"-3,0 h",5 Apr 2022
+5576,Negociación 11,Negocios,Avanzado,17,"6,0 h",27 Oct 2021
+5577,Contabilidad Básica 11,business,basico,23,"11,3 h",2021-05-04
+5578,Finanzas Personales 12,negocios,principiante,29,"10,8 h",28/07/2021
+5579,Emprender 12,business,Intermedio,20,"7,0 h",23/01/2022
+5580,Gestión de Equipos 12,business,intermedio,40,"13,9 h",2020-07-11
+5581,Ventas B2B 12,business,experto,26,"10,8 h",2021-12-02
+5582,Product Management 12,negocios,Principiante,23,"7,4 h",2022-02-23
+5583,Negociación 12,negocios,Principiante,19,"6,7 h",2021-10-14
+5584,Contabilidad Básica 12,business,intermedio,18,"9,9 h",2020-09-26
+5585,Finanzas Personales 13,Negocios,intermedio,44,"17,2 h",2020-09-23
+5586,Emprender 13,Negocios,intermedio,23,"8,2 h",2021-07-11
+5587,Gestión de Equipos 13,negocios,Principiante,43,"17,7 h",2020-10-31
+5588,Ventas B2B 13  ,business,basico,41,"21,1 h",5 Jul 2021
+5589,Product Management 13,Negocios,basico,23,"11,3 h",2020-05-31
+5590,Negociación 13,business,Intermedio,12,"3,8 h",2020-12-11
+5591,Contabilidad Básica 13,Negocios,Principiante,30,"11,6 h",2020-09-29
+5592,  Finanzas Personales 14 ,business,basico,30,"10,4 h",2021-02-08
+5593,Emprender 14,Negocios,Principiante,34,"12,1 h",23 Feb 2021
+5594,GESTIÓN DE EQUIPOS 14,Negocios,Intermedio,32,"16,5 h",27/10/2021
+5595,Ventas B2B 14,negocios,experto,37,"15,2 h",2021-10-05
+5596,Product Management 14,Negocios,basico,22,"7,0 h",2021-05-28
+5597,Negociación 14,negocios,principiante,28,"14,1 h",13/04/2020
+5598,Contabilidad Básica 14,Negocios,Intermedio,14,"5,7 h",2020-12-29
+5599,Finanzas Personales 15,business,Intermedio,34,"16,7 h",2020-09-05
+5600,Emprender 15,Negocios,intermedio,23,"11,3 h",2021-01-15

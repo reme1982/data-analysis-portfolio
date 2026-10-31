@@ -1,0 +1,46 @@
+campana_id,canal,nombre,fecha_inicio,fecha_fin,coste,tipo
+1001,descuento,Cupon Bienvenida,18/05/2023,12/11/2023,"5.397,33 €",Descuento
+1002,Cupón,Descuento Flash  ,06/07/2023,2023-08-21,"7.261,51 €",Descuento
+1003,CUPON,Black Friday,30/01/2023,2023-04-22,"3.542,64 €",Descuento
+1004,CUPON,  Rebajas Enero ,23 Aug 2023,13/09/2023,"7.181,71 €",descuento
+1005,Cupón,Cupon Verano,2023-04-24,22/09/2023,"3.834,60 €",descuento
+1006,cupon,Vuelta al Cole,2022-08-19,11/12/2022,"3.321,30 €",Descuento
+1007,descuento,Promo Estudiantes,20/06/2022,13/11/2022,"5.818,89 €",descuento
+1008,Cupón,2x1 Cursos,29 Mar 2023,06/05/2023,"4.499,96 €",Descuento
+1009,cupon,  Descuento 70,4 Oct 2022,2022-11-15,"6.896,37 €",promo
+1010,cupon,Cupon Reactivacion  ,2023-08-24,,"5.459,14 €",Descuento
+1011,cupon,Cupon Bienvenida 2,31/07/2022,10/12/2022,"7.448,77 €",Descuento
+1012,CUPON,Descuento Flash 2,2023-05-04,2023-06-12,"3.098,16 €",descuento
+1013,descuento,Black Friday 2,2022-07-20,26 Oct 2022,"4.540,09 €",promo
+1014,descuento,Rebajas Enero 2,30 Aug 2023,04/02/2024,"6.035,22 €",Descuento
+1015,cupon,Cupon Verano 2,07/02/2023,2023-03-17,"3.722,74 €",descuento
+1016,cupon,Vuelta al Cole 2,01/01/2023,18/02/2023,"2.784,54 €",Descuento
+1017,Cupón,Promo Estudiantes 2,2022-12-25,2023-03-24,"5.542,89 €",Descuento
+1018,Cupón,2x1 Cursos 2,2022-06-02,05/07/2022,"4.814,14 €",descuento
+1019,publicidad,Meta Prospecting,2023-06-13,2023-07-05,"32.710,08 €",banner
+1020,ads,Google Search Marca,2023-10-12,18 Dec 2023,"19.618,10 €",Display
+1021,ads,YOUTUBE SKIPPABLE,22 Nov 2022,17/03/2023,"10.731,65 €",display
+1022,anuncios,  Instagram Reels,2022-08-04,2022-12-21,"12.943,28 €",display
+1023,publicidad,Display Remarketing,22/03/2023,08/08/2023,"24.732,90 €",banner
+1024,anuncios,TikTok Ads,2023-10-05,2024-03-10,"24.237,64 €",banner
+1025,Anuncios,Meta Lookalike,2023-04-04,2023-07-04,"19.497,76 €",Display
+1026,publicidad,Meta Prospecting 2,2022-09-09,,"9.057,47 €",Display
+1027,ads,Google Search Marca 2,2023-09-22,2023-12-22,"22.087,05 €",display
+1028,Anuncios,  YouTube Skippable 2 ,6 Jan 2023,13 Apr 2023,"14.686,99 €",banner
+1029,publicidad,Instagram Reels 2,21 Feb 2023,10 May 2023,"20.897,08 €",Display
+1030,publicidad,Display Remarketing 2,2023-03-16,2023-05-09,"0,00 €",display
+1031,b2b,B2B Formacion,19/07/2023,25/10/2023,"10.489,84 €",b2b
+1032,empresas,Planes Corporativos  ,12/09/2023,19/02/2024,"7.340,86 €",b2b
+1033,empresas,Onboarding Empresas,2023-04-06,14/07/2023,"14.800,50 €",corporativo
+1034,empresas,Upskilling Teams,2023-03-04,2023-04-23,"11.912,55 €",B2B
+1035,empresas,Convenio Camaras,15/10/2022,2022-11-14,"14.277,50 €",b2b
+1036,empresas,B2B Formacion 2,2022-11-16,2023-04-28,"15.546,28 €",b2b
+1037,corporativo,  Planes Corporativos 2,31/10/2022,18/03/2023,"14.926,37 €",b2b
+1038,empresas,Onboarding Empresas 2,9 Jul 2023,2023-12-12,"6.706,10 €",corporativo
+1039,recomendacion,Programa Referidos,2022-12-28,26/03/2023,"4.746,57 €",referral
+1040,recomendacion,Invita a un Amigo,17/09/2023,,"5.392,60 €",recompensa
+1041,Referido,Recompensa Alumno,05/09/2022,25/09/2022,"6.692,81 €",Recompensa
+1042,referido,Trae un Colega,20/06/2022,2022-10-27,"4.861,02 €",recompensa
+1043,referido,Programa Referidos 2,8 Aug 2022,15/09/2022,"6.507,61 €",Recompensa
+1044,Referido,Invita a un Amigo 2,2023-08-01,2024-01-05,"11.474,88 €",referral
+1045,referido,Recompensa Alumno 2,01/02/2023,2023-03-05,"8.324,51 €",Recompensa
