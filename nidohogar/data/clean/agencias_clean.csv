@@ -1,0 +1,121 @@
+agencia_id,nombre,ciudad,tipo,plan_suscripcion,fecha_alta
+1,Inmobiliaria La Marina,Sevilla,agencia,premium,2021-01-29
+2,Hogar Génova,Valencia,agencia,basico,2019-09-10
+3,Pisos El Faro,Valencia,agencia,basico,2023-03-28
+4,Habitat Costa,Valencia,agencia,basico,2022-04-06
+5,Habitat Génova,Valencia,agencia,pro,2024-02-08
+6,Servicios Inmob. Buenavista,Madrid,agencia,basico,2021-12-16
+7,Particular Nuria F.,Valencia,particular,sin_suscripcion,2024-02-14
+8,Gestión Los Olivos,Madrid,agencia,basico,2023-09-28
+9,Servicios Inmob. Atlántico,Valencia,agencia,basico,2024-02-15
+10,Habitat Prime,Valencia,agencia,premium,2019-08-07
+11,Vivienda Plaza,Málaga,agencia,basico,2020-03-23
+12,Pisos Bahía,Valencia,agencia,pro,2023-04-21
+13,Particular Javier P.,Valencia,particular,sin_suscripcion,2021-02-05
+14,Particular Ana G.,Valencia,particular,sin_suscripcion,2020-08-28
+15,Gestión Prime,Sevilla,agencia,pro,2023-02-12
+16,Gestión Trafalgar,Valencia,agencia,basico,2021-06-03
+17,Inmobiliaria San Miguel,Valencia,agencia,pro,2021-12-16
+18,Servicios Inmob. Plaza,Madrid,agencia,pro,2023-08-15
+19,Particular Marta R.,Valencia,particular,sin_suscripcion,2021-04-25
+20,Particular Luis M.,Sevilla,particular,sin_suscripcion,2023-06-07
+21,  Pisos Los Olivos ,Madrid,agencia,pro,2020-12-17
+22,Gestión Costa,Valencia,agencia,premium,2019-12-24
+23,Pisos Levante,Valencia,agencia,basico,2021-10-31
+24,Particular Luis M.,Madrid,particular,sin_suscripcion,2020-09-14
+25,Alquileres El Faro,Málaga,agencia,basico,2019-07-20
+26,Gestión Sur,Sevilla,agencia,basico,2023-01-28
+27,Grupo Prime,Madrid,agencia,premium,2020-01-02
+28,Inmobiliaria Guadalquivir,Sevilla,agencia,pro,2022-02-04
+29,Particular Pilar V.,Málaga,particular,sin_suscripcion,2022-01-06
+30,Inmobiliaria Serrano,Madrid,agencia,basico,2019-06-15
+31,Fincas Plaza,Valencia,agencia,pro,2020-12-12
+32,Gestión Génova,Valencia,agencia,basico,2021-08-30
+33,Alquileres Plaza,Sevilla,agencia,pro,2023-11-05
+34,Particular Óscar T.,Valencia,particular,sin_suscripcion,2022-09-26
+35,Alquileres Ciudad,Madrid,agencia,premium,2021-05-03
+36,Servicios Inmob. Los Olivos,Valencia,agencia,basico,2020-03-06
+37,Fincas La Marina,Valencia,agencia,basico,2022-02-02
+38,Servicios Inmob. San Miguel,Valencia,agencia,pro,2020-01-07
+39,Servicios Inmob. Los Olivos,Sevilla,agencia,basico,2023-08-29
+40,Alquileres Norte,Sevilla,agencia,basico,2021-04-17
+41,Inmobiliaria Serrano  ,Sevilla,agencia,basico,2022-12-01
+42,Particular Raúl D.,Madrid,particular,sin_suscripcion,2019-06-06
+43,Hogar del Turia,Madrid,agencia,basico,2019-10-17
+44,Fincas Prime,Madrid,agencia,pro,2021-08-24
+45,Vivienda Ciudad,Madrid,agencia,pro,2021-01-28
+46,Pisos Prime,Valencia,agencia,pro,2023-10-17
+47,Inmobiliaria Plaza,Sevilla,agencia,basico,2021-04-13
+48,  Habitat Levante ,Valencia,agencia,pro,2019-11-14
+49,Fincas Guadalquivir,Málaga,agencia,basico,2021-03-02
+50,Habitat Trafalgar,Valencia,agencia,premium,2021-05-03
+51,Alquileres del Turia,Sevilla,agencia,pro,2022-12-25
+52,  Gestión Bahía ,Valencia,agencia,pro,2022-01-31
+53,Inmobiliaria Trafalgar,Valencia,agencia,pro,2020-01-21
+54,Particular Marta R.,Valencia,particular,sin_suscripcion,2023-05-12
+55,Pisos Los Olivos,Valencia,agencia,pro,2023-08-05
+56,Habitat Plaza,Sevilla,agencia,basico,2023-10-10
+57,Particular Sergio L.,Valencia,particular,sin_suscripcion,2023-04-23
+58,Habitat Levante,Valencia,agencia,premium,2019-10-16
+59,Hogar del Turia,Valencia,agencia,pro,2022-06-11
+60,  Habitat Costa ,Valencia,agencia,premium,2022-02-03
+61,Particular Raúl D.,Sevilla,particular,sin_suscripcion,2021-10-25
+62,Fincas Trafalgar,Valencia,agencia,premium,2023-10-09
+63,Alquileres Ribera,Valencia,agencia,pro,2021-02-16
+64,Inmobiliaria El Faro,Valencia,agencia,pro,2022-06-05
+65,Pisos Levante,Málaga,agencia,basico,2024-01-21
+66,Grupo Ciudad,Valencia,agencia,basico,2021-04-13
+67,Particular Nuria F.,Sevilla,particular,sin_suscripcion,2023-12-30
+68,Particular Sergio L.,Valencia,particular,sin_suscripcion,2020-11-26
+69,Particular Óscar T.,Málaga,particular,sin_suscripcion,2021-09-17
+70,Particular Luis M.,Valencia,particular,sin_suscripcion,2021-05-09
+71,Hogar La Alameda,Málaga,agencia,pro,2020-06-10
+72,Particular Javier P.,Valencia,particular,sin_suscripcion,2022-07-11
+73,Hogar Los Olivos,Valencia,agencia,pro,2023-08-16
+74,Hogar Levante,Madrid,agencia,basico,2023-09-14
+75,Fincas del Turia,Madrid,agencia,pro,2019-09-27
+76,Alquileres Guadalquivir,Valencia,agencia,basico,2022-06-04
+77,INMOBILIARIA SAN MIGUEL,Málaga,agencia,pro,2023-09-03
+78,Vivienda Sur  ,Valencia,agencia,basico,2023-06-10
+79,Habitat Central,Madrid,agencia,basico,2024-01-14
+80,  Gestión Nueva Era ,Madrid,agencia,pro,2023-05-21
+81,Servicios Inmob. Nueva Era,Valencia,agencia,pro,2023-10-09
+82,Hogar Prime,Valencia,agencia,pro,2022-11-07
+83,Particular Ana G.,Málaga,particular,sin_suscripcion,2024-02-22
+84,Particular Javier P.,Madrid,particular,sin_suscripcion,2022-03-24
+85,Particular Ana G.,Valencia,particular,sin_suscripcion,2020-05-21
+86,Gestión La Marina,Valencia,agencia,pro,2021-09-22
+87,Inmobiliaria Puerta Real,Valencia,agencia,pro,2020-11-21
+88,Servicios Inmob. La Marina,Málaga,agencia,pro,2022-03-18
+89,Habitat Los Olivos,Madrid,agencia,basico,2023-05-01
+90,Servicios Inmob. Central,Valencia,agencia,premium,2023-03-11
+91,Vivienda Guadalquivir,Madrid,agencia,basico,2023-02-03
+92,Fincas Prime,Valencia,agencia,basico,2020-01-20
+93,Hogar Puerta Real,Valencia,agencia,pro,2023-08-15
+94,Fincas Costa,Madrid,agencia,basico,2023-06-23
+95,Particular Sergio L.,Valencia,particular,sin_suscripcion,2020-11-29
+96,Servicios Inmob. Central,Madrid,agencia,pro,2019-11-11
+97,Vivienda Prime,Sevilla,agencia,premium,2022-11-28
+98,Inmobiliaria Mediterráneo,Málaga,agencia,pro,2023-03-24
+99,FINCAS MEDITERRÁNEO,Madrid,agencia,premium,2023-12-23
+100,Gestión Nueva Era,Sevilla,agencia,basico,2021-03-10
+101,Servicios Inmob. del Turia,Valencia,agencia,pro,2022-01-15
+102,Servicios Inmob. Sur,Sevilla,agencia,basico,2023-02-18
+103,  Vivienda Colón ,Málaga,agencia,basico,2021-02-02
+104,Particular Marta R.,Valencia,particular,sin_suscripcion,2022-07-15
+105,Vivienda Buenavista,Málaga,agencia,pro,2019-09-21
+106,Particular Nuria F.,Sevilla,particular,sin_suscripcion,2019-09-09
+107,Habitat Confort  ,Valencia,agencia,basico,2024-01-06
+108,Servicios Inmob. Costa,Málaga,agencia,basico,2023-05-11
+109,Grupo Trafalgar,Sevilla,agencia,basico,2022-03-31
+110,Particular Luis M.,Madrid,particular,sin_suscripcion,2022-07-13
+111,Gestión Sur,Valencia,agencia,pro,2023-06-15
+112,Pisos del Turia,Madrid,agencia,pro,2023-01-09
+113,Grupo Los Olivos,Valencia,agencia,pro,2022-07-07
+114,Servicios Inmob. Ciudad,Valencia,agencia,pro,2022-09-28
+115,Pisos Costa,Valencia,agencia,pro,2020-12-17
+116,Alquileres Colón,Málaga,agencia,pro,2021-02-12
+117,Servicios Inmob. Puerta Real,Valencia,agencia,pro,2023-01-03
+118,Vivienda Sur,Madrid,agencia,premium,2024-01-19
+119,Particular Javier P.,Madrid,particular,sin_suscripcion,2020-01-10
+120,Alquileres Ribera,Valencia,agencia,basico,2020-08-19
