@@ -1,0 +1,125 @@
+producto_id,marca_id,nombre,precio,coste_ingredientes,categoria
+1,1,Burger BBQ,3.46,1.95,Principal
+2,1,Burger Clasica,4.85,2.69,Principal
+3,1,Burger Doble,5.89,3.23,Principal
+4,1,Burger Bacon,3.86,2.28,Acompanamiento
+5,1,BURGER POLLO CRISPY,4.85,2.86,Principal
+6,1,Burger Veggie,4.45,2.61,Principal
+7,1,Patatas Deluxe,6.83,3.89,Guarnicion
+8,1,Patatas Gajo,3.46,2.0,Principal
+9,1,Aros de Cebolla,3.96,2.3,Principal
+10,1,Nuggets x6,2.97,1.75,Principal
+11,1,Alitas BBQ,4.85,2.68,Plato
+12,1,Ensalada Cesar,5.44,3.0,Plato
+13,1,Refresco,4.45,2.62,Plato
+14,1,Agua Mineral,5.19,2.92,Plato
+15,1,Cerveza,4.45,2.55,Principal
+16,1,Batido,6.83,3.88,Plato
+17,1,Salsa Extra,3.46,2.08,Acompanamiento
+18,1,BACON EXTRA,2.47,1.35,Drink
+19,1,Doble Queso,4.4,2.6,Principal
+20,1,Combo Clasico,4.95,2.83,Guarnicion
+21,1,Combo Doble,2.47,1.46,Guarnicion
+22,1,MENU INFANTIL,6.88,3.74,Principal
+23,1,Brownie,5.44,3.17,Plato
+24,1,Cookie,2.92,1.73,Bebida
+25,2,Poke Salmon,5.1,3.03,Postre
+26,2,Poke Atun,5.1,2.91,Principal
+27,2,Poke Pollo Teriyaki,8.44,4.89,Acompanamiento
+28,2,Poke Veggie,6.14,3.31,Principal
+29,2,Poke Gambas,5.62,3.17,Plato
+30,2,Poke Tofu,8.13,4.69,Principal
+31,2,Bowl Mango,6.14,3.39,Principal
+32,2,Bowl Aguacate,5.01,2.79,Principal
+33,2,Extra Salmon,5.62,3.14,Guarnicion
+34,2,Extra Aguacate,5.11,3.02,Principal
+35,2,Edamame,6.14,3.4,Principal
+36,2,Gyozas x5,6.14,3.47,Principal
+37,2,Alga Wakame,4.6,2.71,Postre
+38,2,Refresco,5.62,3.2,Principal
+39,2,Agua Mineral,6.08,3.58,Principal
+40,2,Te Verde,4.08,2.22,Bebida
+41,2,Kombucha,5.62,3.09,Principal
+42,2,Mochi,3.58,2.08,Bebida
+43,2,Salsa Ponzu,5.57,3.23,Principal
+44,2,Topping Extra,5.11,2.83,Plato
+45,2,Bowl Grande,6.03,3.32,Principal
+46,2,Bowl Mini,8.17,4.56,Principal
+47,2,Ensalada Asiatica,6.13,3.52,Principal
+48,2,Sopa Miso,7.06,4.13,Acompanamiento
+49,3,Pizza Margarita,5.16,2.62,Side
+50,3,Pizza Pepperoni,6.15,3.05,Plato
+51,3,Pizza Cuatro Quesos,4.43,2.31,Principal
+52,3,Pizza Barbacoa,6.15,3.34,Bebida
+53,3,Pizza Prosciutto,5.68,3.07,Postre
+54,3,Pizza Veggie,5.11,2.64,Principal
+55,3,PIZZA DIAVOLA,5.2,2.65,Plato
+56,3,Pizza Carbonara,6.15,3.17,Principal
+57,3,Focaccia,4.06,2.01,Plato
+58,3,Pan de Ajo,5.2,2.82,Postre
+59,3,Ensalada Caprese,5.11,2.73,Principal
+60,3,PALITOS DE MOZZARELLA,6.25,3.2,Principal
+61,3,Refresco,4.64,2.5,Principal
+62,3,Agua Mineral,5.11,2.74,Principal
+63,3,Cerveza,4.17,2.22,Guarnicion
+64,3,Vino Copa,3.65,1.93,Plato
+65,3,Tiramisu,4.17,2.11,Side
+66,3,Panna Cotta,7.19,3.78,Principal
+67,3,Extra Queso,3.65,1.82,Plato
+68,3,Borde Relleno,6.77,3.47,Bebida
+69,3,Calzone,3.02,1.58,Bebida
+70,3,Pizza Familiar,4.69,2.55,Principal
+71,3,Bruschetta,6.25,3.39,Postre
+72,3,Nutella Pizza,3.13,1.65,Bebida
+73,4,Wok Ternera,3.36,1.82,Principal
+74,4,Wok Pollo,4.32,2.22,Bebida
+75,4,Wok Gambas,4.8,2.59,Principal
+76,4,Wok Veggie,4.8,2.5,Dulce
+77,4,Yakisoba,3.84,2.07,Plato
+78,4,Arroz Tres Delicias  ,1.92,1.03,Bebida
+79,4,Rollitos Primavera,2.88,1.47,Plato
+80,4,Pollo Agridulce,5.28,2.86,Principal
+81,4,Ternera con Bambu,2.78,1.41,Side
+82,4,TALLARINES CURRY,5.71,2.88,Principal
+83,4,Gyozas x6,3.83,1.92,Plato
+84,4,Dim Sum,4.8,2.48,Principal
+85,4,Sopa Wonton,3.84,1.92,Plato
+86,4,Ensalada Thai,3.36,1.74,Guarnicion
+87,4,Refresco,4.7,2.35,Principal
+88,4,Agua Mineral,3.74,1.87,Postre
+89,4,Te Frio,4.75,2.37,Principal
+90,4,Cerveza Asiatica,4.75,2.53,Plato
+91,4,Salsa Extra,7.63,4.04,Plato
+92,4,Arroz Extra,5.76,3.0,Acompanamiento
+93,4,Menu Duo,3.84,2.11,Plato
+94,4,Menu Familiar,3.84,2.08,Side
+95,4,Tempura Verduras,4.32,2.2,Dulce
+96,4,Helado Frito,3.79,2.07,Principal
+97,5,Tarta de Queso,2.85,1.5,Postre
+98,5,Brownie con Helado,3.84,1.98,Bebida
+99,5,  Coulant de Chocolate ,1.87,0.97,Dulce
+100,5,Cheesecake Frutos Rojos,1.48,0.75,Dulce
+101,5,Cookies x3,3.44,1.67,Postre
+102,5,Donut Glaseado,1.96,1.01,Principal
+103,5,Gofre Nutella,2.46,1.21,Postre
+104,5,Crepe Dulce,2.46,1.27,Postre
+105,5,Tiramisu,2.41,1.2,Postre
+106,5,Flan Casero,2.95,1.57,Bebida
+107,5,Helado Tarrina,1.97,1.03,Dulce
+108,5,Milkshake Oreo,1.97,1.02,Postre
+109,5,Milkshake Fresa,2.41,1.27,Dulce
+110,5,  Cafe con Leche ,1.96,0.96,Postre
+111,5,Cafe Solo,1.23,0.63,Postre
+112,5,Chocolate Caliente,3.44,1.7,Postre
+113,5,Muffin Arandanos,1.48,0.72,Bebida
+114,5,Cinnamon Roll,3.84,1.97,Postre
+115,5,Tarta Zanahoria,2.41,1.21,Principal
+116,5,MOUSSE CHOCOLATE,2.85,1.47,Bebida
+117,5,Pack Cookies,1.43,0.73,Postre
+118,5,Pack Donuts,1.92,0.99,Postre
+119,5,  Refresco ,2.41,1.25,Postre
+120,5,Agua Mineral,2.85,1.45,Bebida
+121,1,Burger Fantasma,9.9,14.5,Principal
+122,2,Poke Test,13.0,0.0,Principal
+123,3,Pizza Duplicada,12.0,18.0,Plato
+124,5,Postre Error,4.5,0.0,Principal

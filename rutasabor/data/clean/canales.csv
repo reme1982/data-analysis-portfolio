@@ -1,0 +1,5 @@
+canal_id,nombre,comision_pct,tipo
+1,glovo,0.3,MARKETPLACE
+2,uber_eats,0.28,MARKETPLACE
+3,just_eat,0.25,MARKETPLACE
+4,app_propia,0.06,PROPIO

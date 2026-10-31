@@ -1,0 +1,11 @@
+cocina_id,ciudad,nombre,fecha_apertura,capacidad
+1,Madrid,Chamberi,1 Jun 2019,520
+2,Madrid,Vallecas,1 Sep 2023,480
+3,MAD,Tetuan,2020-11-01,500
+4,madrid,Arganzuela,2021-04-01,0
+5,Barcelona,Poblenou,2020-03-01,510
+6,BCN,Sants,2021-07-01,470
+7,BARCELONA,Gracia,2022-02-01,440
+8,VLC,Ruzafa,2020-10-01,450
+9,valencia,Campanar,2022-06-01,99999
+10,ZGZ,Delicias,1 Feb 2021,430
