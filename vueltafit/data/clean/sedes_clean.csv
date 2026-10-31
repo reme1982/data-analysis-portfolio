@@ -1,0 +1,9 @@
+sede_id,ciudad,nombre,aforo,cuota_base,fecha_apertura
+1,Madrid,VueltaFit Chamberí,850,42.0,2020-03-01
+2,Madrid,VueltaFit Vallecas,700,39.0,2021-09-01
+3,Barcelona,VueltaFit Eixample,820,44.0,2020-10-01
+4,Barcelona,VueltaFit Gràcia,640,42.0,2021-05-01
+5,Valencia,VueltaFit Ruzafa,720,39.0,2019-06-01
+6,Sevilla,  VueltaFit Nervión ,680,38.0,2019-11-01
+7,Zaragoza,VueltaFit Centro,900,37.0,2017-04-01
+8,Málaga,VueltaFit Teatinos,620,38.0,2022-01-01
