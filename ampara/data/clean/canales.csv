@@ -1,0 +1,6 @@
+canal_id,nombre,tipo
+1,comparadores,agregador
+2,directo,digital
+3,mediadores,Mediado
+4,banca,banca
+5,referido,referido

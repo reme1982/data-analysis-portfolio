@@ -1,0 +1,6 @@
+producto_id,nombre,ramo,franquicia,ramo_agrupado
+1,auto,auto,300.0,auto
+2,hogar,hogar,150.0,patrimonial
+3,salud,salud,0.0,personal
+4,vida,vida,,personal
+5,mascotas,mascotas,90.0,patrimonial

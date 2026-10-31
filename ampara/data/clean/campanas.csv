@@ -1,0 +1,41 @@
+campana_id,canal,nombre,fecha_inicio,fecha_fin,coste,tipo
+9001,comparadores,Fee Rastreator,2023-08-23,2023-10-31,36062.64,Fee_comparador
+9002,comparadores,Acuerdo Agregador A,2023-09-25,2024-11-02,42551.4,fee
+9003,comparadores,Acuerdo Agregador B,2023-05-18,2023-10-19,48790.6,fee
+9004,comparadores,Puja Comparador Q1,2023-11-15,2024-02-23,37590.92,fee
+9005,comparadores,Puja Comparador Q2,2023-12-02,2024-01-14,25011.76,Fee_comparador
+9006,comparadores,Ranking Precio,2022-08-12,2023-04-13,26390.66,fee
+9007,comparadores,Fee Comparador C,2023-01-17,2023-04-18,45286.24,fee_comparador
+9008,comparadores,Renegociacion Fee,2023-07-07,2023-09-27,31826.78,fee_comparador
+9009,comparadores,Alta Visibilidad,2023-07-20,2023-08-22,17500.21,Fee_comparador
+9010,comparadores,Comparador Movil,2022-07-16,,48988.79,fee
+9011,directo,Google Search Marca,2023-05-12,2023-09-12,53256.65,publicidad
+9012,directo,Meta Prospecting,2023-06-05,2023-11-25,44627.38,ads
+9013,directo,  YouTube Ads ,2022-10-23,,28218.52,ads
+9014,directo,Display Remarketing,2023-07-24,2024-01-13,53290.61,Publicidad
+9015,directo,SEM Genericas,2022-10-26,2022-12-02,70679.41,Publicidad
+9016,directo,Instagram Reels,2023-01-01,2023-03-23,27442.99,ads
+9017,directo,TikTok Ads,2022-09-23,2022-10-30,35737.78,ads
+9018,directo,  Email Captacion ,2022-03-07,2022-08-03,30348.45,ads
+9019,directo,App Install,2023-10-19,2024-03-18,52398.21,Publicidad
+9020,mediadores,  Comision Corredores ,2023-08-04,2023-06-05,71688.26,Comisión
+9021,mediadores,Incentivo Agentes,2023-05-18,2023-08-08,151635.28,comision
+9022,mediadores,Campaña Red Norte  ,2023-11-28,2024-01-23,97852.54,comision
+9023,mediadores,Campaña Red Centro,2022-10-18,2023-01-04,164747.2,comision
+9024,mediadores,Campaña Red Sur,2023-07-20,2024-03-02,80289.38,comision
+9025,mediadores,Bonus Produccion,2023-11-14,2024-05-05,133185.57,Comisión
+9026,mediadores,Convenio Agencias,2023-10-12,2024-06-18,163944.36,comision
+9027,mediadores,Comision Levante,2022-11-15,,108657.41,Comisión
+9028,banca,Acuerdo Bancaseguros,2023-12-31,2024-04-21,71744.25,acuerdo
+9029,banca,Campaña Oficinas,2023-12-03,2024-02-20,30071.2,Acuerdo_banca
+9030,banca,Incentivo Gestores,2023-01-24,2023-03-30,46010.21,Acuerdo_banca
+9031,banca,Cross-sell Hipotecas,2023-11-28,2024-04-01,51742.2,acuerdo_banca
+9032,banca,Bonus Sucursal,2023-03-21,2023-07-27,38896.02,Acuerdo_banca
+9033,banca,Convenio Banca Q3,2023-01-26,2023-06-04,31104.87,Acuerdo_banca
+9034,banca,Push App Banco,2023-04-19,2023-09-09,54431.25,acuerdo
+9035,referido,Programa Referidos,2023-04-04,2023-04-10,10326.58,referral
+9036,referido,Invita a un Amigo,2023-07-03,,24678.19,recompensa
+9037,referido,Recompensa Cliente,2023-06-19,2023-10-23,10340.33,referral
+9038,referido,Trae un Colega,2023-07-22,2024-01-07,17832.12,referral
+9039,referido,Bonus Recomendacion,2023-10-03,2024-01-03,10061.38,Recompensa
+9040,referido,Referido Verano,2023-11-12,2024-02-21,22761.4,Recompensa
